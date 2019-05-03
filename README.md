@@ -3,10 +3,15 @@
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------:
 形骸骑士 | 平台动作 | 简体中文 | TBA  | 无 | [阅读详情](#形骸骑士) | TBA
 罗曼圣诞探案集 | 文字冒险 | 简体中文 | TBA  | 无 | [阅读详情](#罗曼圣诞探案集) | [Steam 商店](https://store.steampowered.com/app/926340/Romans_Christmas/)
-Backbone | 文字冒险 | 英文 | TBA  | 无 | [阅读详情](#Backbone) | [Steam 商店](https://store.steampowered.com/app/865610/Backbone/)
+履云录 | 战棋 | 简体中文 | TBA  | TBC | [阅读详情](#履云录) | TBA
+佚失的终章 | 视觉小说 | 简体中文 | TBA  | TBC | N/A | TBA
+厷雏 | 视觉小说 | 简体中文 | TBA  | TBC | N/A | TBA
+围炉之礁湖 重制版  | 视觉小说 | 简体中文 | 2019年12月  | R18补丁 | N/A | Steam 商店
+阁楼之礁湖 重制版  | 视觉小说 | 简体中文 | 2019年9月  | R18补丁 | N/A | Steam 商店
+Backbone | 文字冒险 | 英文 | 2020年  | 无 | [阅读详情](#Backbone) | [Steam 商店](https://store.steampowered.com/app/865610/Backbone/)
 TUNIC | 动作 | 英文 | TBA  | 无 | [阅读详情](#TUNIC) | [Steam 商店](https://store.steampowered.com/app/553420/TUNIC/)
 雾岛渐次事件簿 | 视觉小说 | 日文 | TBA  | TBC | [阅读详情](#你看见过我的野兽吗雾岛渐次事件簿) | TBA
-生化变种 | 角色扮演 | 英文 | TBA  | 无 | [阅读详情](#生化变种) | [Steam 商店](https://store.steampowered.com/app/597820/BIOMUTANT/)
+生化变种 | 角色扮演 | 英文 | 2019年  | 无 | [阅读详情](#生化变种) | [Steam 商店](https://store.steampowered.com/app/597820/BIOMUTANT/)
 厄运七人组 | 恐怖 | 简体中文 | TBA  | 无 | [阅读详情](#厄运七人组) | [Steam 商店](https://store.steampowered.com/app/579120/Unlucky_Seven/)
 Lovers of Aether | 视觉小说 | 英文 | 2019年4月1日  | 无 | [阅读详情](#Lovers-of-Aether) | [Steam 商店](https://store.steampowered.com/app/1043180/Lovers_of_Aether/)
 超级动物大逃杀 | 射击生存 | 简体中文 | 2018年12月12日  | 无 | [阅读详情](#超级动物大逃杀) | [Steam 商店](https://store.steampowered.com/app/843380/Super_Animal_Royale/)
@@ -30,6 +35,7 @@ Orekemo | 视觉小说 | [汉化补丁](https://share.weiyun.com/5M93onn) 7783ya
 凯之传奇 | 角色扮演 | 英文 | 2015年7月28日  | 无 | [阅读详情](#凯之传奇) | [Steam 商店](https://store.steampowered.com/app/313810/Legend_of_Kay_Anniversary/)
 FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](#FaceRig) | [Steam 商店](https://store.steampowered.com/app/274920/FaceRig/)
 笨蛋部 | 视觉小说 | [汉化补丁](https://tieba.baidu.com/p/4944731151) | 2015年8月16日  | 包含 | [阅读详情](#笨蛋部) | [BOOTH](https://booth.pm/ja/items/526423)
+愛する君へ | 视觉小说 | [汉化补丁](https://tieba.baidu.com/p/4807261773) | 2014年5月11日  | 包含 | [阅读详情](#愛する君へ) | [Pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=43445593)
 咱的夏天。 | 视觉小说 | [汉化版](https://tieba.baidu.com/p/3452271872) | 2010年8月15日  | 包含 | [阅读详情](#咱的夏天) | 已解散
 
 ## 形骸骑士
@@ -61,6 +67,55 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 > **本游戏含轻微血腥内容**（我也没办法去掉毕竟这是个天杀的侦探游戏）
 
 官方微博：[罗曼圣诞探案集](https://weibo.com/u/5903993211)
+
+## 履云录
+![img](img/006udwpxly1g220p3cut8j30zk0k00xy.jpg)
+> 通过剧情、地图探索可以：
+> 
+> * 学习更多绝招！
+> * 开启友情联协攻击系统
+> * 强化现有角色属性
+> * 获得新的装备品
+> 
+> 通过城市重建和开发系统可以：
+> 
+> * 拓展地图探索范围
+> * 看到更多八卦
+> * 随时和常驻城市的居民闲聊
+> * 影响和改变结局（诶？）
+> 
+> 战斗系统中：
+> 
+> * 可以操作决明发动大轰斩
+> * 可以让东玄点燃草地获取招式威力加成
+> * 可以让光元祈雨灭火
+> * 可以命令消云守卫自己提供无微不至的保护
+> * 可以使用已解锁的双人合击技能，发动华丽必杀
+> * 更多更多
+
+官方微博：[履云录](https://weibo.com/lvyunlu)
+
+## 佚失的终章
+
+> 「佚失的终章」是由风旅社所企划的一款剧情+养成的文字游戏。
+> 
+> 主要讲述了主角在大学最后一年所发生的种种事情。
+> 
+> 咖啡厅，音乐会，温泉等一系列充满未知的大四生活等你来探索！
+> 
+> 玩家可在游戏里体验一个完整的以兽人为主角的故事。
+> 
+> 游戏内拥有极多的剧情变化，每个人都将会体验到属于自己的故事。
+
+官方微博：[WindGo风旅社](https://weibo.com/u/6343557679)
+
+## 厷雏
+
+官方微博：[HinaKageDogs](https://weibo.com/u/3868792778)
+
+## 围炉之礁湖 重制版
+
+## 阁楼之礁湖 重制版
 
 ## Backbone
 ![img](img/ss_37ca57d513fe0b175d5dcf6aef47e2c4ab95d2e6.jpg)
@@ -288,6 +343,24 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 > ひょんな事から『バカ部』という部活に入る決意をする。
 > 
 > バカ騒ぎして皆を楽しませる事を目的とした部活で日々を過ごし、主人公は何を思うのか――。
+
+## 愛する君へ
+![img](img/CiREQuCUgAEm8sA.jpg)
+> こんにちわ、KENNです。
+> 
+> はちと一緒にフリーライトノベルゲーム（R-18)作っちゃいました！！
+> 
+> 本当は４月１日にリリースしよう！って話になってましたが
+> 
+> 遅れに遅れて今日になってしまいました。
+> 
+> フリーなので是非やってみてください！！
+> 
+> ちなみに、pixivでの先行配信になります。
+> 
+> ２０日後の６月１日あたりには先行配信は終了し
+> 
+> 今後サイトに無料配布していく予定です。
 
 ## 咱的夏天。
 ![img](img/b3119313b07eca8087038d6d952397dda1448332.jpg)
