@@ -9,8 +9,8 @@ TUNIC | 动作 | 英文 | TBA  | 无 | [阅读详情](#TUNIC) | [Steam 商店](h
 厄运七人组 | 恐怖 | 简体中文 | TBA  | 无 | [阅读详情](#厄运七人组) | [Steam 商店](https://store.steampowered.com/app/579120/Unlucky_Seven/)
 Lovers of Aether | 视觉小说 | 英文 | 2019年4月1日  | 无 | [阅读详情](#Lovers-of-Aether) | [Steam 商店](https://store.steampowered.com/app/1043180/Lovers_of_Aether/)
 超级动物大逃杀 | 射击生存 | 简体中文 | 2018年12月12日  | 无 | [阅读详情](#超级动物大逃杀) | [Steam 商店](https://store.steampowered.com/app/843380/Super_Animal_Royale/)
-The Crown of Leaves | 视觉小说 | 英文 | 2018年11月27日  | 无 | [阅读详情](#The-Crown-of-Leaves) | [Steam 商店](https://store.steampowered.com/app/604330/The_Crown_of_Leaves/)
-Meow Wars: Card Battle | 卡牌 | 简体中文 | 2018年8月8日  | 无 | [阅读详情](#Meow-Wars-Card-Battle) | [Steam 商店](https://store.steampowered.com/app/762110/Meow_Wars_Card_Battle/)
+绿叶之冠 | 视觉小说 | 英文 | 2018年11月27日  | 无 | [阅读详情](#绿叶之冠) | [Steam 商店](https://store.steampowered.com/app/604330/The_Crown_of_Leaves/)
+喵喵战争 | 卡牌 | 简体中文 | 2018年8月8日  | 无 | [阅读详情](#喵喵战争) | [Steam 商店](https://store.steampowered.com/app/762110/Meow_Wars_Card_Battle/)
 秘密之礁湖 重制版  | 视觉小说 | 简体中文 | 2018年7月6日  | [R18补丁](http://www.kaiju09.com/lagoonloungeEnglish/) | [阅读详情](#秘密之礁湖-重制版) | [Steam 商店](https://store.steampowered.com/app/857690/Lagoon_Lounge__The_Poisonous_Fountain/)
 Just, Bearly | 模拟 | 英文 | 2018年5月31日  | 无 | [阅读详情](#Just-Bearly) | [Steam 商店](https://store.steampowered.com/app/792030/Just_Bearly/)
 Amorous | 视觉小说 | 英文 | 2018年4月14日  | 无 | [阅读详情](#Amorous) | [Steam 商店](https://store.steampowered.com/app/778700/Amorous/)
@@ -21,11 +21,11 @@ Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [阅读详�
 尾牙 | 策略 | 简体中文 | 2017年9月13日  | 无 | [阅读详情](#尾牙) | [Steam 商店](https://store.steampowered.com/app/286000/Tooth_and_Tail/)
 亮晶晶：闪闪王国 | 动作角色扮演 | 英文 | 2017年4月18日  | 无 | [阅读详情](#亮晶晶：闪闪王国) | [Steam 商店](https://store.steampowered.com/app/366640/Shiness_The_Lightning_Kingdom/)
 林中之夜 | 文字冒险 | 英文 | 2017年2月21日  | 无 | [阅读详情](#林中之夜) | [Steam 商店](https://store.steampowered.com/app/481510/Night_in_the_Woods/)
-Angels with Scaly Wings | 视觉小说 | [汉化补丁](https://steamcommunity.com/sharedfiles/filedetails/?id=1631230813) | 2017年2月1日  | 无 | [阅读详情](#Angels-with-Scaly-Wings) | [Steam 商店](https://store.steampowered.com/app/571880/Angels_with_Scaly_Wings/)
+鳞翼天使 | 视觉小说 | [汉化补丁](https://steamcommunity.com/sharedfiles/filedetails/?id=1631230813) | 2017年2月1日  | 无 | [阅读详情](#鳞翼天使) | [Steam 商店](https://store.steampowered.com/app/571880/Angels_with_Scaly_Wings/)
 大调小调完整版 | 视觉小说 | 英文 | 2016年10月11日  | 无 | [阅读详情](#大调小调完整版) | [Steam 商店](https://store.steampowered.com/app/475490/MajorMinor__Complete_Edition/)
-Stories: The Path of Destinies | 动作角色扮演 | [汉化补丁](https://steamcn.com/t429856-1-1) | 2016年4月12日  | 无 | [阅读详情](#Stories-The-Path-of-Destinies) | [Steam 商店](https://store.steampowered.com/app/439190/Stories_The_Path_of_Destinies/)
+传说：命运之路 | 动作角色扮演 | [汉化补丁](https://steamcn.com/t429856-1-1) | 2016年4月12日  | 无 | [阅读详情](#传说：命运之路) | [Steam 商店](https://store.steampowered.com/app/439190/Stories_The_Path_of_Destinies/)
 阿门罗 | 卡牌策略 | 简体中文 | 2015年9月2日  | 无 | [阅读详情](#阿门罗) | [Steam 商店](https://store.steampowered.com/app/290340/Armello/)
-Legend of Kay Anniversary | 角色扮演 | 英文 | 2015年7月28日  | 无 | [阅读详情](#Legend-of-Kay-Anniversary) | [Steam 商店](https://store.steampowered.com/app/313810/Legend_of_Kay_Anniversary/)
+凯之传奇 | 角色扮演 | 英文 | 2015年7月28日  | 无 | [阅读详情](#凯之传奇) | [Steam 商店](https://store.steampowered.com/app/313810/Legend_of_Kay_Anniversary/)
 FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](#FaceRig) | [Steam 商店](https://store.steampowered.com/app/274920/FaceRig/)
 
 ## 形骸骑士
@@ -113,11 +113,11 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 > 
 > 加入超级动物世界，一起来看看我们正与抢先体验社区进行着哪些工作，并为游戏的发展做出贡献！
 
-## The Crown of Leaves
+## 绿叶之冠
 ![img](https://media.st.dl.bscstorage.net/steam/apps/604330/ss_a448d755b1cbbfde1914465724f09367e1ce723b.jpg)
 > Roui, a resilient city dandy, a half-educated jeweler and the author of scientific magic articles, was met with a colossal failure and must return to his homeland Latori.
 
-## Meow Wars: Card Battle
+## 喵喵战争
 ![img](https://media.st.dl.bscstorage.net/steam/apps/762110/ss_d000073bc884d18d9dbc60b73925ed2bb36d3c2c.jpg)
 > Meow Wars是一个猫主题的卡牌战斗游戏，具有极易掌握的机制和迷人的手绘人物。一路争战，战胜每个挑战者，接近 指挥官卡特拉特并从他的铁腕下解放猫岛。每个阶段都会向令人信服的猫科动物故事中引入一只新猫和新的卡牌能力。在PVP对决中挑战您的朋友，或者测试您对抗全球观众的力量。 
 
@@ -233,7 +233,7 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 ![img](https://media.st.dl.bscstorage.net/steam/apps/481510/ss_be58beee5186f4b06b828a90a126f47cca55ae0a.jpg)
 > NIGHT IN THE WOODS is an adventure game focused on exploration, story, and character, featuring dozens of characters to meet and lots to do across a lush, vibrant world.
 
-## Angels with Scaly Wings
+## 鳞翼天使
 ![img](https://media.st.dl.bscstorage.net/steam/apps/571880/ss_7a944fe09bba59209069ff3281502c1b4e141221.jpg)
 > You, the player, are an ambassador for Earth sent through a mysterious portal into the world of dragons. Explore a town full of secrets and the people who keep them in this compelling sci-fi visual novel with slice of life and dating sim elements.
 
@@ -241,7 +241,7 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 ![img](https://media.st.dl.bscstorage.net/steam/apps/475490/ss_1fd7ca7da251098203d9ee7f87df394e1aa4b050.jpg)
 > A highly engaging visual novel, with memorable characters and multiple endings. Traverse worlds, solve a murder mystery -- and partake in political revolution. Inspired by greats such as Steins;Gate, Tales of Symphonia, Persona 4 and Future Diary. An unforgettable science-fiction/fantasy adventure!
 
-## Stories: The Path of Destinies
+## 传说：命运之路
 ![img](https://media.st.dl.bscstorage.net/steam/apps/439190/ss_7b9f1a9b79ff9aaa8d29a1dd480480c4b439df57.jpg)
 > Stories: The Path of Destinies is an Action RPG, an enchanted storybook filled with madcap fantasy tales, each told by a zippy narrator attuned to the player’s choices and actions.
 
@@ -251,7 +251,7 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 > 
 > 您将扮演阿门罗一个家族的勇士，在王国里寻找、策划、探索、雇佣特工、击败怪物、施展法术，并与其他玩家展开对抗，为完成终极目标：攻入宫殿，成为阿门罗的统治者而奋斗。阿门罗王国无比美丽又危机四伏，随处都可能有灾祸和强盗藏身。除此之外，更有一种称为“腐化”灾难四处蔓延，王国中的生物无一幸免。
 
-## Legend of Kay Anniversary
+## 凯之传奇
 ![img](https://media.st.dl.bscstorage.net/steam/apps/313810/ss_ec5b99cbfda06b42f6c5a44e82d51fe7b105c742.jpg)
 > 10 years after its initial release, Legend of Kay - Anniversary is a thoroughly remastered version of the original game: high-resolution textures; new, more detailed character models; modern rendering techniques and crystal-clear surround sound give this great classic a new shine.
 
