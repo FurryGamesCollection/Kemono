@@ -59,7 +59,7 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 官方微博：[罗曼圣诞探案集](https://weibo.com/u/5903993211)
 
 ## Backbone
-![img](https://media.st.dl.bscstorage.net/steam/apps/865610/ss_37ca57d513fe0b175d5dcf6aef47e2c4ab95d2e6.jpg)
+![img](img/ss_37ca57d513fe0b175d5dcf6aef47e2c4ab95d2e6.jpg)
 > Backbone is a noir-inspired detective adventure. As raccoon private eye Howard Lotor, sniff out clues, collect evidence, interrogate witnesses, and explore beautiful pixel art version of dystopian Vancouver, BC.
 > 
 > Howard Lotor is smart, self-assured and set in his ways. Caught in the tedium of day-to-day life, he’s resigned to the abuses of the authoritative regime in power and compliant with the systemic inequality that permeates society. But a string of cases that grow progressively more outlandish will put his worldview to the test. 
@@ -69,17 +69,17 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 > Inspired by film noir, Backbone will submerge you into its dark dystopian atmosphere. Every animation in the game is handcrafted frame by frame, and environments are modeled after real streets of Vancouver, BC. The breathtaking combination of high resolution pixel art and 3D effects like dynamic lighting, pouring rain, volumetric fog and neon lights bring the sprawling city to life. Original doom jazz soundtrack will keep you on the edge with the enveloping veil of bebop and cinematic soundscapes, where every sound tells a story.
 
 ## TUNIC
-![img](https://media.st.dl.bscstorage.net/steam/apps/553420/ss_1f13b6b65d141e179a7904c0aae00516a315c675.jpg)
+![img](img/ss_1f13b6b65d141e179a7904c0aae00516a315c675.jpg)
 > TUNIC is an action adventure about a tiny fox in a big world. Explore the wilderness, discover spooky ruins, and fight terrible creatures from long ago.
 
 ## 生化变种
-![img](https://media.st.dl.bscstorage.net/steam/apps/597820/ss_b16d8dea0422b7d28b900061121f83581916a55d.jpg)
+![img](img/ss_b16d8dea0422b7d28b900061121f83581916a55d.jpg)
 > BIOMUTANT is an open-world, post-apocalyptic Kung-Fu fable RPG, with a unique martial arts styled combat system allowing you to mix melee, shooting and mutant ability action.
 > 
 > A plague is ruining the land and the Tree-of-Life is bleeding death from its roots. The Tribes stand divided. Explore a world in turmoil and define its fate – will you be its saviour or lead it to an even darker destiny?
 
 ## 厄运七人组
-![img](https://media.st.dl.bscstorage.net/steam/apps/579120/ss_5c36e8a6c1558607084452d4cdf7b50212857222.jpg)
+![img](img/ss_5c36e8a6c1558607084452d4cdf7b50212857222.jpg)
 > 《厄运七人组》将会带您来一场太空漫步，并体验一个爱恨交集，与渴望人肉的故事。
 > 
 > 艾伦的朋友们总是喜欢庆祝特别场合，他们错过了匿名戒酒会，跑去参加了一个豪华汽车旅馆的生日派对。不幸的是，派对的主人因为吃了一口美味的人肝香肠而食欲大增。他们的庆生派对即将成为死亡派对...
@@ -87,11 +87,11 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 > 在这个美丽的像素写实风世界中尽情冒险！你所做的每一个选择都将决定你朋友们的命运。探索参与者们的动机与欲望，并破坏他们的阴谋吧！
 
 ## Lovers of Aether
-![img](https://media.st.dl.bscstorage.net/steam/apps/1043180/ss_63c10e13051f3b609f31c2975971e0804d2aa0d7.jpg)
+![img](img/ss_63c10e13051f3b609f31c2975971e0804d2aa0d7.jpg)
 > Are you tired of fighting? Lovers of Aether is the game for you! This is a wholesome animal dating simulator set in the world of Rivals of Aether.
 
 ## 超级动物大逃杀
-![img](https://media.st.dl.bscstorage.net/steam/apps/843380/ss_8c8dd48d8fd20650bbb41edab0bcebe2507e25f9.jpg)
+![img](img/ss_8c8dd48d8fd20650bbb41edab0bcebe2507e25f9.jpg)
 > **为了生存而战：**
 > 
 > 超级动物大逃杀是一款创意十足，刺激且充满战略性的上帝视角大逃杀。在各种异域风情的生物群落中参与这场由最多64名可爱杀手动物的尖牙利爪(还有机关枪)大乱斗吧！这里的动物们都为了成为最强狗狗(或最强猫咪、最强树懒...之类的)而战！
@@ -114,15 +114,15 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 > 加入超级动物世界，一起来看看我们正与抢先体验社区进行着哪些工作，并为游戏的发展做出贡献！
 
 ## 绿叶之冠
-![img](https://media.st.dl.bscstorage.net/steam/apps/604330/ss_a448d755b1cbbfde1914465724f09367e1ce723b.jpg)
+![img](img/ss_a448d755b1cbbfde1914465724f09367e1ce723b.jpg)
 > Roui, a resilient city dandy, a half-educated jeweler and the author of scientific magic articles, was met with a colossal failure and must return to his homeland Latori.
 
 ## 喵喵战争
-![img](https://media.st.dl.bscstorage.net/steam/apps/762110/ss_d000073bc884d18d9dbc60b73925ed2bb36d3c2c.jpg)
+![img](img/ss_d000073bc884d18d9dbc60b73925ed2bb36d3c2c.jpg)
 > Meow Wars是一个猫主题的卡牌战斗游戏，具有极易掌握的机制和迷人的手绘人物。一路争战，战胜每个挑战者，接近 指挥官卡特拉特并从他的铁腕下解放猫岛。每个阶段都会向令人信服的猫科动物故事中引入一只新猫和新的卡牌能力。在PVP对决中挑战您的朋友，或者测试您对抗全球观众的力量。 
 
 ## 秘密之礁湖 重制版
-![img](https://media.st.dl.bscstorage.net/steam/apps/857690/ss_16da5557f52a53034138c418d5dd61a163ebcb4f.jpg)
+![img](img/ss_16da5557f52a53034138c418d5dd61a163ebcb4f.jpg)
 > 这是一部包含兽人角色与同性恋爱主题的视觉小说游戏。你将在游戏内扮演一名兽人角色，搬到湖边的小村子居住，和当地的村民生活在一起。
 > 
 > **故事剧情**
@@ -154,7 +154,7 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 > 是学习新语言的好机会。
 
 ## Just, Bearly
-![img](https://media.st.dl.bscstorage.net/steam/apps/792030/ss_d79dd8650eb30d5ed35175a2a5621ed54660e6a8.jpg)
+![img](img/ss_d79dd8650eb30d5ed35175a2a5621ed54660e6a8.jpg)
 > An honest comedy about anxiety and feeling awkward, played through painfully relatable mini games.
 > 
 > A comedic story game played in vignettes, about feeling anxious as a bear in inner city Melbourne, Australia, and trying to connect to people none the less. 
@@ -162,11 +162,11 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 > Click, pull, mash, and guide your way through an ever changing mix of dialogue choices, reaction challenges, dexterity tests, rhythm games and God only knows what else as you overthink and under-perform your way through every day life -- Striving towards greatness and being less of an awkward, anxious, crap.
 
 ## Amorous
-![img](https://media.st.dl.bscstorage.net/steam/apps/778700/ss_21d8755d371aaeee213b41ea8991667e8dd9e60d.jpg)
+![img](img/ss_21d8755d371aaeee213b41ea8991667e8dd9e60d.jpg)
 > Explore the dazzling neon lights of Amorous. A bustling furry night club that attracts all species, personalities and sexualities. Create your own character and find all 9 datable characters!
 
 ## Changed
-![img](https://media.st.dl.bscstorage.net/steam/apps/814540/ss_595bfd6c49812bcd6c3a5a1cd25860de7baf5dfd.jpg)
+![img](img/ss_595bfd6c49812bcd6c3a5a1cd25860de7baf5dfd.jpg)
 > 《Changed》是一款颇有难度，拥有大量追逐战的动作解谜类游戏。
 > 
 > 游戏主角在陌生的房间中苏醒，来到了一个陌生的实验楼。
@@ -182,15 +182,15 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 官方微博：[Changed游戏官博](https://weibo.com/u/6485580433)
 
 ## The Pirate's Fate
-![img](https://media.st.dl.bscstorage.net/steam/apps/553480/ss_7d0f3b11ca9e132b927cca69e3ffde56a7494943.jpg)
+![img](img/ss_7d0f3b11ca9e132b927cca69e3ffde56a7494943.jpg)
 > Embark on a swashbuckling adventure in The Pirate's Fate, a visual novel experience with a unique twist: the story, the crew, and who you are transform based on your choices. Seek treasure, find love, and choose your fate.
 
 ## Winds of Change
-![img](https://media.st.dl.bscstorage.net/steam/apps/594130/ss_8b76f333b93391b57297a90d909c299ae235729f.jpg)
+![img](img/ss_8b76f333b93391b57297a90d909c299ae235729f.jpg)
 > Lead The Rebellion, build your army, and shape the world with your choices. A story-heavy adventure game with multiple endings, romance options, and non-linear storytelling. A vast dark fantasy world waiting to be explored. Inspired by Dragon Age, and Mass Effect. Fully voice acted by a stellar cast!
 
 ## 家有大猫
-![img](https://media.st.dl.bscstorage.net/steam/apps/570840/ss_bf65c6eea4b2d4c0f42e0caaaef4207ba3785596.jpg)
+![img](img/ss_bf65c6eea4b2d4c0f42e0caaaef4207ba3785596.jpg)
 > 这是一个关于某个普通大学生突然看到了三位猫科动物神灵的故事。
 > 
 > **有没有幻想过毛茸茸的兽人出现在身边？如果他们是自幼就听过大名的神明怎么办？在家有大猫的故事中，你会很快发现美梦成真需要付出的代价。**
@@ -208,7 +208,7 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 官方微博：[家有大猫微博](https://weibo.com/u/5843616745)
 
 ## 尾牙
-![img](https://media.st.dl.bscstorage.net/steam/apps/286000/ss_e4242b60ba7de5e63ab298b7cd96deccfe9e65d1.jpg)
+![img](img/ss_e4242b60ba7de5e63ab298b7cd96deccfe9e65d1.jpg)
 > 大军所向披靡，你将率领喷射火焰的野猪，释放芥子毒气的臭鼬，还有呕吐伞兵猫头鹰引领一场变革。来自 Monaco：What's Yours is Mine 开发组的最新力作《尾牙》是一款包含单人模式，在线对战，分屏对战，精彩重放等许许多多内容的创新即时战略游戏。
 > 
 > 建设基地，指挥军队，吞噬敌人！
@@ -226,35 +226,35 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 > 每局游戏约为5~12分钟，可以分屏本地双人对战，针对手柄和键鼠都进行了充分的优化， 《尾牙》是一款能令新人和老手都满意的爆米花式即时战略游戏。
 
 ## 亮晶晶：闪闪王国
-![img](https://media.st.dl.bscstorage.net/steam/apps/366640/ss_ef42c0f7fb672024d4dd72516f7ebdc08268cc16.jpg)
+![img](img/ss_ef42c0f7fb672024d4dd72516f7ebdc08268cc16.jpg)
 > Shiness is an Action-RPG developed by indie development studio Enigami, which will let you travel in a captivating universe doomed to destruction ever since the fragmentation of the planet Mahera...
 
 ## 林中之夜
-![img](https://media.st.dl.bscstorage.net/steam/apps/481510/ss_be58beee5186f4b06b828a90a126f47cca55ae0a.jpg)
+![img](img/ss_be58beee5186f4b06b828a90a126f47cca55ae0a.jpg)
 > NIGHT IN THE WOODS is an adventure game focused on exploration, story, and character, featuring dozens of characters to meet and lots to do across a lush, vibrant world.
 
 ## 鳞翼天使
-![img](https://media.st.dl.bscstorage.net/steam/apps/571880/ss_7a944fe09bba59209069ff3281502c1b4e141221.jpg)
+![img](img/ss_7a944fe09bba59209069ff3281502c1b4e141221.jpg)
 > You, the player, are an ambassador for Earth sent through a mysterious portal into the world of dragons. Explore a town full of secrets and the people who keep them in this compelling sci-fi visual novel with slice of life and dating sim elements.
 
 ## 大调小调完整版
-![img](https://media.st.dl.bscstorage.net/steam/apps/475490/ss_1fd7ca7da251098203d9ee7f87df394e1aa4b050.jpg)
+![img](img/ss_1fd7ca7da251098203d9ee7f87df394e1aa4b050.jpg)
 > A highly engaging visual novel, with memorable characters and multiple endings. Traverse worlds, solve a murder mystery -- and partake in political revolution. Inspired by greats such as Steins;Gate, Tales of Symphonia, Persona 4 and Future Diary. An unforgettable science-fiction/fantasy adventure!
 
 ## 传说：命运之路
-![img](https://media.st.dl.bscstorage.net/steam/apps/439190/ss_7b9f1a9b79ff9aaa8d29a1dd480480c4b439df57.jpg)
+![img](img/ss_7b9f1a9b79ff9aaa8d29a1dd480480c4b439df57.jpg)
 > Stories: The Path of Destinies is an Action RPG, an enchanted storybook filled with madcap fantasy tales, each told by a zippy narrator attuned to the player’s choices and actions.
 
 ## 阿门罗
-![img](https://media.st.dl.bscstorage.net/steam/apps/290340/ss_aa5d6a4d236aee51fa0a93e8c605dba49f3e7c22.jpg)
+![img](img/ss_aa5d6a4d236aee51fa0a93e8c605dba49f3e7c22.jpg)
 > 《阿门罗》将富有深度的卡牌战术游戏，策略性丰富的桌面游戏，以及角色扮演游戏三种风格融为一体，让玩家体验华丽盛大的冒险之旅。 
 > 
 > 您将扮演阿门罗一个家族的勇士，在王国里寻找、策划、探索、雇佣特工、击败怪物、施展法术，并与其他玩家展开对抗，为完成终极目标：攻入宫殿，成为阿门罗的统治者而奋斗。阿门罗王国无比美丽又危机四伏，随处都可能有灾祸和强盗藏身。除此之外，更有一种称为“腐化”灾难四处蔓延，王国中的生物无一幸免。
 
 ## 凯之传奇
-![img](https://media.st.dl.bscstorage.net/steam/apps/313810/ss_ec5b99cbfda06b42f6c5a44e82d51fe7b105c742.jpg)
+![img](img/ss_ec5b99cbfda06b42f6c5a44e82d51fe7b105c742.jpg)
 > 10 years after its initial release, Legend of Kay - Anniversary is a thoroughly remastered version of the original game: high-resolution textures; new, more detailed character models; modern rendering techniques and crystal-clear surround sound give this great classic a new shine.
 
 ## FaceRig
-![img](https://media.st.dl.bscstorage.net/steam/apps/274920/ss_57f61e2b783c79acce5fd64dd200be7504ff71cc.jpg)
+![img](img/ss_57f61e2b783c79acce5fd64dd200be7504ff71cc.jpg)
 > FaceRig is a program that aims to enable anyone with a webcam to digitally embody awesome characters. The output can be recorded as a movie or streamed to Skype, Twitch, Hangouts or any service that traditionally uses a webcam in real time.
