@@ -22,11 +22,14 @@ Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [阅读详�
 亮晶晶：闪闪王国 | 动作角色扮演 | 英文 | 2017年4月18日  | 无 | [阅读详情](#亮晶晶：闪闪王国) | [Steam 商店](https://store.steampowered.com/app/366640/Shiness_The_Lightning_Kingdom/)
 林中之夜 | 文字冒险 | 英文 | 2017年2月21日  | 无 | [阅读详情](#林中之夜) | [Steam 商店](https://store.steampowered.com/app/481510/Night_in_the_Woods/)
 鳞翼天使 | 视觉小说 | [汉化补丁](https://steamcommunity.com/sharedfiles/filedetails/?id=1631230813) | 2017年2月1日  | 无 | [阅读详情](#鳞翼天使) | [Steam 商店](https://store.steampowered.com/app/571880/Angels_with_Scaly_Wings/)
+你看见过我的野兽吗？ | 视觉小说 | [汉化补丁 密码：7783ya](https://share.weiyun.com/5M93onn) | 2015年8月16日  | 包含 | [阅读详情](#你看见过我的野兽吗？) | [DIGIKET](http://www.digiket.com/work/show/_data/ID=ITM0144580/)
 大调小调完整版 | 视觉小说 | 英文 | 2016年10月11日  | 无 | [阅读详情](#大调小调完整版) | [Steam 商店](https://store.steampowered.com/app/475490/MajorMinor__Complete_Edition/)
 传说：命运之路 | 动作角色扮演 | [汉化补丁](https://steamcn.com/t429856-1-1) | 2016年4月12日  | 无 | [阅读详情](#传说：命运之路) | [Steam 商店](https://store.steampowered.com/app/439190/Stories_The_Path_of_Destinies/)
 阿门罗 | 卡牌策略 | 简体中文 | 2015年9月2日  | 无 | [阅读详情](#阿门罗) | [Steam 商店](https://store.steampowered.com/app/290340/Armello/)
 凯之传奇 | 角色扮演 | 英文 | 2015年7月28日  | 无 | [阅读详情](#凯之传奇) | [Steam 商店](https://store.steampowered.com/app/313810/Legend_of_Kay_Anniversary/)
 FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](#FaceRig) | [Steam 商店](https://store.steampowered.com/app/274920/FaceRig/)
+笨蛋部 | 视觉小说 | [汉化版](https://tieba.baidu.com/p/4944731151) | 2015年8月16日  | 包含 | [阅读详情](#笨蛋部) | [BOOTH](https://booth.pm/ja/items/526423)
+咱的夏天。 | 视觉小说 | [汉化版](https://tieba.baidu.com/p/3452271872) | 2010年8月15日  | 包含 | [阅读详情](#咱的夏天。) | 已解散
 
 ## 形骸骑士
 ![img](img/007cpe1lly1g1bo9v4klmj31hc0u0u0y.jpg)
@@ -237,6 +240,16 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 ![img](img/ss_7a944fe09bba59209069ff3281502c1b4e141221.jpg)
 > You, the player, are an ambassador for Earth sent through a mysterious portal into the world of dragons. Explore a town full of secrets and the people who keep them in this compelling sci-fi visual novel with slice of life and dating sim elements.
 
+## 你看见过我的野兽吗？
+![img](img/06f6cd3e1abb58ba3b60907774bd98a8.jpg)
+> 急成長中のSNS『おんらいん』。 
+> 
+> 幅広いコンテンツを取り扱うそのSNSで、主人公：犬飼 春（イヌカイハジメ）はとあるコミュニティを管理しています。 
+> 
+> 三連休を目の前にしたある日、どこか見覚えのあるIDから、突然のメッセージが……！ 
+> 
+> メッセージの送り主、和虎を「たった三日間で！？」攻略できるのか！ 
+
 ## 大调小调完整版
 ![img](img/ss_1fd7ca7da251098203d9ee7f87df394e1aa4b050.jpg)
 > A highly engaging visual novel, with memorable characters and multiple endings. Traverse worlds, solve a murder mystery -- and partake in political revolution. Inspired by greats such as Steins;Gate, Tales of Symphonia, Persona 4 and Future Diary. An unforgettable science-fiction/fantasy adventure!
@@ -258,3 +271,21 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 ## FaceRig
 ![img](img/ss_57f61e2b783c79acce5fd64dd200be7504ff71cc.jpg)
 > FaceRig is a program that aims to enable anyone with a webcam to digitally embody awesome characters. The output can be recorded as a movie or streamed to Skype, Twitch, Hangouts or any service that traditionally uses a webcam in real time.
+
+## 笨蛋部
+![img](img/6018c8b0-739e-41ba-8d38-3d7f7871acf8_base_resized.jpg)
+> 遠くて近い未来。突然変異で獣人という新しい種族が誕生し、気付けば世界の人口は大きく変動していた。
+> 
+> 世界の大半を獣人が占め、人間は希少な種族へと変化してしまった。
+> 
+> 人間という人種を理由に中学時代を虐められて過ごした主人公は自分自身を変えようと選んだ獣人だらけの高校で、
+> 
+> ひょんな事から『バカ部』という部活に入る決意をする。
+> 
+> バカ騒ぎして皆を楽しませる事を目的とした部活で日々を過ごし、主人公は何を思うのか――。
+
+## 咱的夏天。
+![img](img/b3119313b07eca8087038d6d952397dda1448332.jpg)
+> 在高考前的最后一个暑假，在城市的主角收到小时候住的村子（水乡村）里朋友来信。因为祖父母还住在那里，主角就决定回老家探望。
+> 
+> 主角搭公车回到水乡村，遇见在巴士站等待他的虎彦，稍晚参加朋友们为他举办的欢迎会，介绍九个主要角色之后进入分歧点，在此选择故事进行的八条路线（其中一条路线包含两位主要角色）。
