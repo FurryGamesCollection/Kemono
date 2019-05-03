@@ -3,11 +3,11 @@
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------:
 形骸骑士  | 平台动作 | 简体中文 | TBA  | 无 | [阅读详情](#形骸骑士) | TBA
 罗曼圣诞探案集  | 文字冒险 | 简体中文 | TBA  | 无 | [阅读详情](#罗曼圣诞探案集) | [Steam 商店](https://store.steampowered.com/app/926340/Romans_Christmas/)
-Lovers of Aether | 视觉小说 | 英文 | 2019年4月1日  | 无 | [阅读详情](#Lovers of Aether) | [Steam 商店](https://store.steampowered.com/app/1043180/Lovers_of_Aether/)
+Lovers of Aether | 视觉小说 | 英文 | 2019年4月1日  | 无 | [阅读详情](#Lovers-of-Aether) | [Steam 商店](https://store.steampowered.com/app/1043180/Lovers_of_Aether/)
 超级动物大逃杀 | 射击生存 | 简体中文 | 2018年12月12日  | 无 | [阅读详情](#超级动物大逃杀) | [Steam 商店](https://store.steampowered.com/app/843380/Super_Animal_Royale/)
-The Crown of Leaves | 视觉小说 | 英文 | 2018年11月27日  | 无 | [阅读详情](#The Crown of Leaves) | [Steam 商店](https://store.steampowered.com/app/604330/The_Crown_of_Leaves/)
-秘密之礁湖 重制版  | 视觉小说 | 简体中文 | 2018年7月6日  | [R18补丁](http://www.kaiju09.com/lagoonloungeEnglish/) | [阅读详情](#秘密之礁湖 重制版) | [Steam 商店](https://store.steampowered.com/app/857690/Lagoon_Lounge__The_Poisonous_Fountain/)
-Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [阅读详情](#Winds of Change) | [Steam 商店](https://store.steampowered.com/app/594130/Winds_of_Change/)
+The Crown of Leaves | 视觉小说 | 英文 | 2018年11月27日  | 无 | [阅读详情](#The-Crown-of-Leaves) | [Steam 商店](https://store.steampowered.com/app/604330/The_Crown_of_Leaves/)
+秘密之礁湖 重制版  | 视觉小说 | 简体中文 | 2018年7月6日  | [R18补丁](http://www.kaiju09.com/lagoonloungeEnglish/) | [阅读详情](#秘密之礁湖-重制版) | [Steam 商店](https://store.steampowered.com/app/857690/Lagoon_Lounge__The_Poisonous_Fountain/)
+Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [阅读详情](#Winds-of-Change) | [Steam 商店](https://store.steampowered.com/app/594130/Winds_of_Change/)
 家有大猫  | 视觉小说 | 简体中文 | 2017年11月13日  | [R18补丁](https://store.nekojishi.tw/zh/product/nekojishi_limited/) | [阅读详情](#家有大猫) | [Steam 商店](https://store.steampowered.com/app/570840/_Nekojishi/)
 
 ## 形骸骑士
