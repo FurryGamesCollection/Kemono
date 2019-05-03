@@ -28,7 +28,7 @@ Orekemo | 视觉小说 | [汉化补丁](https://share.weiyun.com/5M93onn) 7783ya
 阿门罗 | 卡牌策略 | 简体中文 | 2015年9月2日  | 无 | [阅读详情](#阿门罗) | [Steam 商店](https://store.steampowered.com/app/290340/Armello/)
 凯之传奇 | 角色扮演 | 英文 | 2015年7月28日  | 无 | [阅读详情](#凯之传奇) | [Steam 商店](https://store.steampowered.com/app/313810/Legend_of_Kay_Anniversary/)
 FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](#FaceRig) | [Steam 商店](https://store.steampowered.com/app/274920/FaceRig/)
-笨蛋部 | 视觉小说 | [汉化版](https://tieba.baidu.com/p/4944731151) | 2015年8月16日  | 包含 | [阅读详情](#笨蛋部) | [BOOTH](https://booth.pm/ja/items/526423)
+笨蛋部 | 视觉小说 | [汉化补丁](https://tieba.baidu.com/p/4944731151) | 2015年8月16日  | 包含 | [阅读详情](#笨蛋部) | [BOOTH](https://booth.pm/ja/items/526423)
 咱的夏天。 | 视觉小说 | [汉化版](https://tieba.baidu.com/p/3452271872) | 2010年8月15日  | 包含 | [阅读详情](#咱的夏天。) | 已解散
 
 ## 形骸骑士
