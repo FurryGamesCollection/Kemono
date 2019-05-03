@@ -1,14 +1,32 @@
 # Kemono
 游戏名称  | 游戏类型  | 支持语言 | 发行日期 | 成人内容 | 游戏介绍 | 获取方式
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------:
-形骸骑士  | 平台动作 | 简体中文 | TBA  | 无 | [阅读详情](#形骸骑士) | TBA
-罗曼圣诞探案集  | 文字冒险 | 简体中文 | TBA  | 无 | [阅读详情](#罗曼圣诞探案集) | [Steam 商店](https://store.steampowered.com/app/926340/Romans_Christmas/)
+形骸骑士 | 平台动作 | 简体中文 | TBA  | 无 | [阅读详情](#形骸骑士) | TBA
+罗曼圣诞探案集 | 文字冒险 | 简体中文 | TBA  | 无 | [阅读详情](#罗曼圣诞探案集) | [Steam 商店](https://store.steampowered.com/app/926340/Romans_Christmas/)
+Backbone | 文字冒险 | 英文 | TBA  | 无 | [阅读详情](#Backbone) | [Steam 商店](https://store.steampowered.com/app/865610/Backbone/)
+TUNIC | 动作 | 英文 | TBA  | 无 | [阅读详情](#TUNIC) | [Steam 商店](https://store.steampowered.com/app/553420/TUNIC/)
+生化变种 | 角色扮演 | 英文 | TBA  | 无 | [阅读详情](#生化变种) | [Steam 商店](https://store.steampowered.com/app/597820/BIOMUTANT/)
+厄运七人组 | 恐怖 | 简体中文 | TBA  | 无 | [阅读详情](#厄运七人组) | [Steam 商店](https://store.steampowered.com/app/579120/Unlucky_Seven/)
 Lovers of Aether | 视觉小说 | 英文 | 2019年4月1日  | 无 | [阅读详情](#Lovers-of-Aether) | [Steam 商店](https://store.steampowered.com/app/1043180/Lovers_of_Aether/)
 超级动物大逃杀 | 射击生存 | 简体中文 | 2018年12月12日  | 无 | [阅读详情](#超级动物大逃杀) | [Steam 商店](https://store.steampowered.com/app/843380/Super_Animal_Royale/)
 The Crown of Leaves | 视觉小说 | 英文 | 2018年11月27日  | 无 | [阅读详情](#The-Crown-of-Leaves) | [Steam 商店](https://store.steampowered.com/app/604330/The_Crown_of_Leaves/)
+Meow Wars: Card Battle | 卡牌 | 简体中文 | 2018年8月8日  | 无 | [阅读详情](#Meow-Wars-Card-Battle) | [Steam 商店](https://store.steampowered.com/app/762110/Meow_Wars_Card_Battle/)
 秘密之礁湖 重制版  | 视觉小说 | 简体中文 | 2018年7月6日  | [R18补丁](http://www.kaiju09.com/lagoonloungeEnglish/) | [阅读详情](#秘密之礁湖-重制版) | [Steam 商店](https://store.steampowered.com/app/857690/Lagoon_Lounge__The_Poisonous_Fountain/)
+Just, Bearly | 模拟 | 英文 | 2018年5月31日  | 无 | [阅读详情](#Just-Bearly) | [Steam 商店](https://store.steampowered.com/app/792030/Just_Bearly/)
+Amorous | 视觉小说 | 英文 | 2018年4月14日  | 无 | [阅读详情](#Amorous) | [Steam 商店](https://store.steampowered.com/app/778700/Amorous/)
+Changed | 解谜 | 简体中文 | 2018年4月5日  | 无 | [阅读详情](#Changed) | [Steam 商店](https://store.steampowered.com/app/814540/Changed/)
+The Pirate's Fate | 视觉小说 | 英文 | 2018年3月27日  | 无 | [阅读详情](#The-Pirates-Fate) | [Steam 商店](https://store.steampowered.com/app/553480/The_Pirates_Fate/)
 Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [阅读详情](#Winds-of-Change) | [Steam 商店](https://store.steampowered.com/app/594130/Winds_of_Change/)
 家有大猫  | 视觉小说 | 简体中文 | 2017年11月13日  | [R18补丁](https://store.nekojishi.tw/zh/product/nekojishi_limited/) | [阅读详情](#家有大猫) | [Steam 商店](https://store.steampowered.com/app/570840/_Nekojishi/)
+尾牙 | 策略 | 简体中文 | 2017年9月13日  | 无 | [阅读详情](#尾牙) | [Steam 商店](https://store.steampowered.com/app/286000/Tooth_and_Tail/)
+亮晶晶：闪闪王国 | 动作角色扮演 | 英文 | 2017年4月18日  | 无 | [阅读详情](#亮晶晶：闪闪王国) | [Steam 商店](https://store.steampowered.com/app/366640/Shiness_The_Lightning_Kingdom/)
+林中之夜 | 文字冒险 | 英文 | 2017年2月21日  | 无 | [阅读详情](#林中之夜) | [Steam 商店](https://store.steampowered.com/app/481510/Night_in_the_Woods/)
+Angels with Scaly Wings | 视觉小说 | [汉化补丁](https://steamcommunity.com/sharedfiles/filedetails/?id=1631230813) | 2017年2月1日  | 无 | [阅读详情](#Angels-with-Scaly-Wings) | [Steam 商店](https://store.steampowered.com/app/571880/Angels_with_Scaly_Wings/)
+大调小调完整版 | 视觉小说 | 英文 | 2016年10月11日  | 无 | [阅读详情](#大调小调完整版) | [Steam 商店](https://store.steampowered.com/app/475490/MajorMinor__Complete_Edition/)
+Stories: The Path of Destinies | 动作角色扮演 | [汉化补丁](https://steamcn.com/t429856-1-1) | 2016年4月12日  | 无 | [阅读详情](#Stories-The-Path-of-Destinies) | [Steam 商店](https://store.steampowered.com/app/439190/Stories_The_Path_of_Destinies/)
+阿门罗 | 卡牌策略 | 简体中文 | 2015年9月2日  | 无 | [阅读详情](#阿门罗) | [Steam 商店](https://store.steampowered.com/app/290340/Armello/)
+Legend of Kay Anniversary | 角色扮演 | 英文 | 2015年7月28日  | 无 | [阅读详情](#Legend-of-Kay-Anniversary) | [Steam 商店](https://store.steampowered.com/app/313810/Legend_of_Kay_Anniversary/)
+FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](#FaceRig) | [Steam 商店](https://store.steampowered.com/app/274920/FaceRig/)
 
 ## 形骸骑士
 ![img](https://wx3.sinaimg.cn/large/007cpe1lly1g1bo9v4klmj31hc0u0u0y.jpg)
@@ -40,6 +58,34 @@ Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [阅读详�
 
 官方微博：[罗曼圣诞探案集](https://weibo.com/u/5903993211)
 
+## Backbone
+![img](https://media.st.dl.bscstorage.net/steam/apps/865610/ss_37ca57d513fe0b175d5dcf6aef47e2c4ab95d2e6.jpg)
+> Backbone is a noir-inspired detective adventure. As raccoon private eye Howard Lotor, sniff out clues, collect evidence, interrogate witnesses, and explore beautiful pixel art version of dystopian Vancouver, BC.
+> 
+> Howard Lotor is smart, self-assured and set in his ways. Caught in the tedium of day-to-day life, he’s resigned to the abuses of the authoritative regime in power and compliant with the systemic inequality that permeates society. But a string of cases that grow progressively more outlandish will put his worldview to the test. 
+> 
+> Backbone's gameplay is a new take on point-and-click adventure, featuring stealth, exploration, and extensive branching dialogues inspired by classic CRPGs. As Howard, you must traverse the diverse districts of a now walled-off Vancouver, sniff out clues, collect evidence, interrogate witnesses, and choose which leads to follow. 
+> 
+> Inspired by film noir, Backbone will submerge you into its dark dystopian atmosphere. Every animation in the game is handcrafted frame by frame, and environments are modeled after real streets of Vancouver, BC. The breathtaking combination of high resolution pixel art and 3D effects like dynamic lighting, pouring rain, volumetric fog and neon lights bring the sprawling city to life. Original doom jazz soundtrack will keep you on the edge with the enveloping veil of bebop and cinematic soundscapes, where every sound tells a story.
+
+## TUNIC
+![img](https://media.st.dl.bscstorage.net/steam/apps/553420/ss_1f13b6b65d141e179a7904c0aae00516a315c675.jpg)
+> TUNIC is an action adventure about a tiny fox in a big world. Explore the wilderness, discover spooky ruins, and fight terrible creatures from long ago.
+
+## 生化变种
+![img](https://media.st.dl.bscstorage.net/steam/apps/597820/ss_b16d8dea0422b7d28b900061121f83581916a55d.jpg)
+> BIOMUTANT is an open-world, post-apocalyptic Kung-Fu fable RPG, with a unique martial arts styled combat system allowing you to mix melee, shooting and mutant ability action.
+> 
+> A plague is ruining the land and the Tree-of-Life is bleeding death from its roots. The Tribes stand divided. Explore a world in turmoil and define its fate – will you be its saviour or lead it to an even darker destiny?
+
+## 厄运七人组
+![img](https://media.st.dl.bscstorage.net/steam/apps/579120/ss_5c36e8a6c1558607084452d4cdf7b50212857222.jpg)
+> 《厄运七人组》将会带您来一场太空漫步，并体验一个爱恨交集，与渴望人肉的故事。
+> 
+> 艾伦的朋友们总是喜欢庆祝特别场合，他们错过了匿名戒酒会，跑去参加了一个豪华汽车旅馆的生日派对。不幸的是，派对的主人因为吃了一口美味的人肝香肠而食欲大增。他们的庆生派对即将成为死亡派对...
+> 
+> 在这个美丽的像素写实风世界中尽情冒险！你所做的每一个选择都将决定你朋友们的命运。探索参与者们的动机与欲望，并破坏他们的阴谋吧！
+
 ## Lovers of Aether
 ![img](https://media.st.dl.bscstorage.net/steam/apps/1043180/ss_63c10e13051f3b609f31c2975971e0804d2aa0d7.jpg)
 > Are you tired of fighting? Lovers of Aether is the game for you! This is a wholesome animal dating simulator set in the world of Rivals of Aether.
@@ -70,6 +116,10 @@ Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [阅读详�
 ## The Crown of Leaves
 ![img](https://media.st.dl.bscstorage.net/steam/apps/604330/ss_a448d755b1cbbfde1914465724f09367e1ce723b.jpg)
 > Roui, a resilient city dandy, a half-educated jeweler and the author of scientific magic articles, was met with a colossal failure and must return to his homeland Latori.
+
+## Meow Wars: Card Battle
+![img](https://media.st.dl.bscstorage.net/steam/apps/762110/ss_d000073bc884d18d9dbc60b73925ed2bb36d3c2c.jpg)
+> Meow Wars是一个猫主题的卡牌战斗游戏，具有极易掌握的机制和迷人的手绘人物。一路争战，战胜每个挑战者，接近 指挥官卡特拉特并从他的铁腕下解放猫岛。每个阶段都会向令人信服的猫科动物故事中引入一只新猫和新的卡牌能力。在PVP对决中挑战您的朋友，或者测试您对抗全球观众的力量。 
 
 ## 秘密之礁湖 重制版
 ![img](https://media.st.dl.bscstorage.net/steam/apps/857690/ss_16da5557f52a53034138c418d5dd61a163ebcb4f.jpg)
@@ -103,6 +153,38 @@ Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [阅读详�
 > 
 > 是学习新语言的好机会。
 
+## Just, Bearly
+![img](https://media.st.dl.bscstorage.net/steam/apps/792030/ss_d79dd8650eb30d5ed35175a2a5621ed54660e6a8.jpg)
+> An honest comedy about anxiety and feeling awkward, played through painfully relatable mini games.
+> 
+> A comedic story game played in vignettes, about feeling anxious as a bear in inner city Melbourne, Australia, and trying to connect to people none the less. 
+> 
+> Click, pull, mash, and guide your way through an ever changing mix of dialogue choices, reaction challenges, dexterity tests, rhythm games and God only knows what else as you overthink and under-perform your way through every day life -- Striving towards greatness and being less of an awkward, anxious, crap.
+
+## Amorous
+![img](https://media.st.dl.bscstorage.net/steam/apps/778700/ss_21d8755d371aaeee213b41ea8991667e8dd9e60d.jpg)
+> Explore the dazzling neon lights of Amorous. A bustling furry night club that attracts all species, personalities and sexualities. Create your own character and find all 9 datable characters!
+
+## Changed
+![img](https://media.st.dl.bscstorage.net/steam/apps/814540/ss_595bfd6c49812bcd6c3a5a1cd25860de7baf5dfd.jpg)
+> 《Changed》是一款颇有难度，拥有大量追逐战的动作解谜类游戏。
+> 
+> 游戏主角在陌生的房间中苏醒，来到了一个陌生的实验楼。
+> 
+> 冒险中，他会遇到形形色色的未知生物，每一种都可以轻易“掠夺”他的躯体，他只能进行不断的探索，试图走出这个危机四伏的建筑。
+> 
+> 在这个草木皆兵的新世界里，暗自引导他走出去的究竟是谁？为什么他会被困在这里？外面的世界究竟遭遇了什么？
+> 
+> 种种谜团错综复杂，真相将在一步步交互与探索中慢慢浮出水面。
+> 
+> 当然，要小心，不要迷失在这个建筑……
+
+官方微博：[Changed游戏官博](https://weibo.com/u/6485580433)
+
+## The Pirate's Fate
+![img](https://media.st.dl.bscstorage.net/steam/apps/553480/ss_7d0f3b11ca9e132b927cca69e3ffde56a7494943.jpg)
+> Embark on a swashbuckling adventure in The Pirate's Fate, a visual novel experience with a unique twist: the story, the crew, and who you are transform based on your choices. Seek treasure, find love, and choose your fate.
+
 ## Winds of Change
 ![img](https://media.st.dl.bscstorage.net/steam/apps/594130/ss_8b76f333b93391b57297a90d909c299ae235729f.jpg)
 > Lead The Rebellion, build your army, and shape the world with your choices. A story-heavy adventure game with multiple endings, romance options, and non-linear storytelling. A vast dark fantasy world waiting to be explored. Inspired by Dragon Age, and Mass Effect. Fully voice acted by a stellar cast!
@@ -124,3 +206,55 @@ Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [阅读详�
 > **家有大猫的故事含有同性恋爱的剧情。**
 
 官方微博：[家有大猫微博](https://weibo.com/u/5843616745)
+
+## 尾牙
+![img](https://media.st.dl.bscstorage.net/steam/apps/286000/ss_e4242b60ba7de5e63ab298b7cd96deccfe9e65d1.jpg)
+> 大军所向披靡，你将率领喷射火焰的野猪，释放芥子毒气的臭鼬，还有呕吐伞兵猫头鹰引领一场变革。来自 Monaco：What's Yours is Mine 开发组的最新力作《尾牙》是一款包含单人模式，在线对战，分屏对战，精彩重放等许许多多内容的创新即时战略游戏。
+> 
+> 建设基地，指挥军队，吞噬敌人！
+> 
+> **肉之圣战**
+> 
+> 形形色色的角色统统被卷入一场决定谁做食肉者，而谁沦为刀俎的战争。游戏将通过内容丰富的单人战役演绎充满黑色幽默的鼠族变革史。
+> 
+> **无尽的可重玩性**
+> 
+> 过程生成式的地图，佐以丰富的自定义参数，每一次的对局都会带给你独特的体验，玩家必须靠谋略而非背板来取得胜利。
+> 
+> **即开即玩**
+> 
+> 每局游戏约为5~12分钟，可以分屏本地双人对战，针对手柄和键鼠都进行了充分的优化， 《尾牙》是一款能令新人和老手都满意的爆米花式即时战略游戏。
+
+## 亮晶晶：闪闪王国
+![img](https://media.st.dl.bscstorage.net/steam/apps/366640/ss_ef42c0f7fb672024d4dd72516f7ebdc08268cc16.jpg)
+> Shiness is an Action-RPG developed by indie development studio Enigami, which will let you travel in a captivating universe doomed to destruction ever since the fragmentation of the planet Mahera...
+
+## 林中之夜
+![img](https://media.st.dl.bscstorage.net/steam/apps/481510/ss_be58beee5186f4b06b828a90a126f47cca55ae0a.jpg)
+> NIGHT IN THE WOODS is an adventure game focused on exploration, story, and character, featuring dozens of characters to meet and lots to do across a lush, vibrant world.
+
+## Angels with Scaly Wings
+![img](https://media.st.dl.bscstorage.net/steam/apps/571880/ss_7a944fe09bba59209069ff3281502c1b4e141221.jpg)
+> You, the player, are an ambassador for Earth sent through a mysterious portal into the world of dragons. Explore a town full of secrets and the people who keep them in this compelling sci-fi visual novel with slice of life and dating sim elements.
+
+## 大调小调完整版
+![img](https://media.st.dl.bscstorage.net/steam/apps/475490/ss_1fd7ca7da251098203d9ee7f87df394e1aa4b050.jpg)
+> A highly engaging visual novel, with memorable characters and multiple endings. Traverse worlds, solve a murder mystery -- and partake in political revolution. Inspired by greats such as Steins;Gate, Tales of Symphonia, Persona 4 and Future Diary. An unforgettable science-fiction/fantasy adventure!
+
+## Stories: The Path of Destinies
+![img](https://media.st.dl.bscstorage.net/steam/apps/439190/ss_7b9f1a9b79ff9aaa8d29a1dd480480c4b439df57.jpg)
+> Stories: The Path of Destinies is an Action RPG, an enchanted storybook filled with madcap fantasy tales, each told by a zippy narrator attuned to the player’s choices and actions.
+
+## 阿门罗
+![img](https://media.st.dl.bscstorage.net/steam/apps/290340/ss_aa5d6a4d236aee51fa0a93e8c605dba49f3e7c22.jpg)
+> 《阿门罗》将富有深度的卡牌战术游戏，策略性丰富的桌面游戏，以及角色扮演游戏三种风格融为一体，让玩家体验华丽盛大的冒险之旅。 
+> 
+> 您将扮演阿门罗一个家族的勇士，在王国里寻找、策划、探索、雇佣特工、击败怪物、施展法术，并与其他玩家展开对抗，为完成终极目标：攻入宫殿，成为阿门罗的统治者而奋斗。阿门罗王国无比美丽又危机四伏，随处都可能有灾祸和强盗藏身。除此之外，更有一种称为“腐化”灾难四处蔓延，王国中的生物无一幸免。
+
+## Legend of Kay Anniversary
+![img](https://media.st.dl.bscstorage.net/steam/apps/313810/ss_ec5b99cbfda06b42f6c5a44e82d51fe7b105c742.jpg)
+> 10 years after its initial release, Legend of Kay - Anniversary is a thoroughly remastered version of the original game: high-resolution textures; new, more detailed character models; modern rendering techniques and crystal-clear surround sound give this great classic a new shine.
+
+## FaceRig
+![img](https://media.st.dl.bscstorage.net/steam/apps/274920/ss_57f61e2b783c79acce5fd64dd200be7504ff71cc.jpg)
+> FaceRig is a program that aims to enable anyone with a webcam to digitally embody awesome characters. The output can be recorded as a movie or streamed to Skype, Twitch, Hangouts or any service that traditionally uses a webcam in real time.
