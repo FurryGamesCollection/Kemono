@@ -5,7 +5,7 @@
 罗曼圣诞探案集 | 文字冒险 | 简体中文 | TBA  | 无 | [阅读详情](#罗曼圣诞探案集) | [Steam 商店](https://store.steampowered.com/app/926340/Romans_Christmas/)
 Backbone | 文字冒险 | 英文 | TBA  | 无 | [阅读详情](#Backbone) | [Steam 商店](https://store.steampowered.com/app/865610/Backbone/)
 TUNIC | 动作 | 英文 | TBA  | 无 | [阅读详情](#TUNIC) | [Steam 商店](https://store.steampowered.com/app/553420/TUNIC/)
-雾岛渐次事件簿 | 视觉小说 | 日文 | TBA  | TBC | [阅读详情](#雾岛渐次事件簿) | TBA
+雾岛渐次事件簿 | 视觉小说 | 日文 | TBA  | TBC | [阅读详情](#你看见过我的野兽吗？雾岛渐次事件簿) | TBA
 生化变种 | 角色扮演 | 英文 | TBA  | 无 | [阅读详情](#生化变种) | [Steam 商店](https://store.steampowered.com/app/597820/BIOMUTANT/)
 厄运七人组 | 恐怖 | 简体中文 | TBA  | 无 | [阅读详情](#厄运七人组) | [Steam 商店](https://store.steampowered.com/app/579120/Unlucky_Seven/)
 Lovers of Aether | 视觉小说 | 英文 | 2019年4月1日  | 无 | [阅读详情](#Lovers-of-Aether) | [Steam 商店](https://store.steampowered.com/app/1043180/Lovers_of_Aether/)
