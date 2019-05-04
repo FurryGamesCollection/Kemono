@@ -1,5 +1,5 @@
 # Kemono
-游戏名称  | 游戏类型  | 支持语言 | 发行日期 | 成人 | 游戏介绍 | 获取方式
+游戏名称  | 游戏类型  | 语言 | 发行日期 | 成人 | 介绍 | 获取方式
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------:
 形骸骑士 | 平台动作 | 中文 | TBA  | 无 | [🐾](#形骸骑士) | TBA
 罗曼圣诞探案集 | 文字冒险 | 中文 | TBA  | 无 | [🐾](#罗曼圣诞探案集) | [Steam 商店](https://store.steampowered.com/app/926340/Romans_Christmas/)
@@ -20,7 +20,7 @@ After Class | 视觉小说 | 英文 | TBA  | 包含 | [🐾](#After-Class) | [it
 课外活动 | 视觉小说 | 英文 | 2019年4月1日  | 包含 | [🐾](#课外活动) | [itch.io](https://dynewulf.itch.io/extracurricular-activities)
 Lovers of Aether | 视觉小说 | 英文 | 2019年4月1日  | 无 | [🐾](#Lovers-of-Aether) | [Steam 商店](https://store.steampowered.com/app/1043180/Lovers_of_Aether/)
 揭谛 | 文字冒险 | 中文 | 2019年2月10日  | 无 | [🐾](#揭谛) | [百度贴吧](https://tieba.baidu.com/p/6031889182)
-暗黑之门 | 视觉小说 | [汉化补丁](https://weibo.com/5587914091/GDjHQuWhT) | 2019年2月10日  | 包含 | [🐾](#暗黑之门) | [Patreon](https://www.patreon.com/blackgategame)
+暗黑之门 | 视觉小说 | [汉化](https://weibo.com/5587914091/GDjHQuWhT) | 2019年2月10日  | 包含 | [🐾](#暗黑之门) | [Patreon](https://www.patreon.com/blackgategame)
 超级动物大逃杀 | 射击生存 | 中文 | 2018年12月12日  | 无 | [🐾](#超级动物大逃杀) | [Steam 商店](https://store.steampowered.com/app/843380/Super_Animal_Royale/)
 绿叶之冠 | 视觉小说 | 英文 | 2018年11月27日  | 无 | [🐾](#绿叶之冠) | [Steam 商店](https://store.steampowered.com/app/604330/The_Crown_of_Leaves/)
 喵喵战争 | 卡牌 | 中文 | 2018年8月8日  | 无 | [🐾](#喵喵战争) | [Steam 商店](https://store.steampowered.com/app/762110/Meow_Wars_Card_Battle/)
@@ -35,17 +35,17 @@ Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [🐾](#Wind
 尾牙 | 策略 | 中文 | 2017年9月13日  | 无 | [🐾](#尾牙) | [Steam 商店](https://store.steampowered.com/app/286000/Tooth_and_Tail/)
 亮晶晶：闪闪王国 | 动作角色扮演 | 英文 | 2017年4月18日  | 无 | [🐾](#亮晶晶闪闪王国) | [Steam 商店](https://store.steampowered.com/app/366640/Shiness_The_Lightning_Kingdom/)
 林中之夜 | 文字冒险 | 英文 | 2017年2月21日  | 无 | [🐾](#林中之夜) | [Steam 商店](https://store.steampowered.com/app/481510/Night_in_the_Woods/)
-鳞翼天使 | 视觉小说 | [汉化补丁](https://steamcommunity.com/sharedfiles/filedetails/?id=1631230813) | 2017年2月1日  | 无 | [🐾](#鳞翼天使) | [Steam 商店](https://store.steampowered.com/app/571880/Angels_with_Scaly_Wings/)
+鳞翼天使 | 视觉小说 | [汉化](https://steamcommunity.com/sharedfiles/filedetails/?id=1631230813) | 2017年2月1日  | 无 | [🐾](#鳞翼天使) | [Steam 商店](https://store.steampowered.com/app/571880/Angels_with_Scaly_Wings/)
 大调小调完整版 | 视觉小说 | 英文 | 2016年10月11日  | 无 | [🐾](#大调小调完整版) | [Steam 商店](https://store.steampowered.com/app/475490/MajorMinor__Complete_Edition/)
-Orekemo | 视觉小说 | [汉化补丁](https://share.weiyun.com/5M93onn) 7783ya | 2016年9月25日  | 包含 | [🐾](#你看见过我的野兽吗) | [DIGIKET](http://www.digiket.com/work/show/_data/ID=ITM0144580/)
-传说：命运之路 | 动作角色扮演 | [汉化补丁](https://steamcn.com/t429856-1-1) | 2016年4月12日  | 无 | [🐾](#传说命运之路) | [Steam 商店](https://store.steampowered.com/app/439190/Stories_The_Path_of_Destinies/)
+Orekemo | 视觉小说 | [汉化](https://share.weiyun.com/5M93onn) 7783ya | 2016年9月25日  | 包含 | [🐾](#你看见过我的野兽吗) | [DIGIKET](http://www.digiket.com/work/show/_data/ID=ITM0144580/)
+传说：命运之路 | 动作角色扮演 | [汉化](https://steamcn.com/t429856-1-1) | 2016年4月12日  | 无 | [🐾](#传说命运之路) | [Steam 商店](https://store.steampowered.com/app/439190/Stories_The_Path_of_Destinies/)
 阿门罗 | 卡牌策略 | 中文 | 2015年9月2日  | 无 | [🐾](#阿门罗) | [Steam 商店](https://store.steampowered.com/app/290340/Armello/)
 蛮荒兽族 | 文字冒险 | 中文 | 2015年8月16日  | 无 | [🐾](#蛮荒兽族) | [橙光](https://www.66rpg.com/game/356881)
-笨蛋部 | 视觉小说 | [汉化补丁](https://tieba.baidu.com/p/4944731151) | 2015年8月16日  | 包含 | [🐾](#笨蛋部) | [BOOTH](https://booth.pm/ja/items/526423)
+笨蛋部 | 视觉小说 | [汉化](https://tieba.baidu.com/p/4944731151) | 2015年8月16日  | 包含 | [🐾](#笨蛋部) | [BOOTH](https://booth.pm/ja/items/526423)
 凯之传奇 | 角色扮演 | 英文 | 2015年7月28日  | 无 | [🐾](#凯之传奇) | [Steam 商店](https://store.steampowered.com/app/313810/Legend_of_Kay_Anniversary/)
 FaceRig | 视频软件 | 中文 | 2015年7月7日  | 无 | [🐾](#FaceRig) | [Steam 商店](https://store.steampowered.com/app/274920/FaceRig/)
 另一个书签 | 视觉小说 | 中文 | 2014年10月12日  | 无 | [🐾](#Another-Bookmark) | [百度贴吧](https://tieba.baidu.com/p/3345903293)
-愛する君へ | 视觉小说 | [汉化补丁](https://tieba.baidu.com/p/4807261773) | 2014年5月11日  | 包含 | [🐾](#愛する君へ) | [Pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=43445593)
+愛する君へ | 视觉小说 | [汉化](https://tieba.baidu.com/p/4807261773) | 2014年5月11日  | 包含 | [🐾](#愛する君へ) | [Pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=43445593)
 兽人战士的私通 | 模拟 | 日文 | 2013年5月25日  | 包含 | [🐾](#ケモノ戦士の夜這い) | [DIGIKET](https://www.digiket.com/work/show/_data/ID=ITM0082832/)
 Hello, 吳鍊 | 模拟 | 中文 | 2010年12月29日  | 无 | [🐾](#Hello-吳鍊) | [主页](https://zoharwolf.weebly.com/hello-2155537706.html)（失效）
 咱的夏天。 | 视觉小说 | [汉化版](https://tieba.baidu.com/p/3452271872) | 2010年8月15日  | 包含 | [🐾](#咱的夏天) | 已解散
