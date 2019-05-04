@@ -44,7 +44,7 @@ Orekemo | 视觉小说 | [汉化补丁](https://share.weiyun.com/5M93onn) 7783ya
 笨蛋部 | 视觉小说 | [汉化补丁](https://tieba.baidu.com/p/4944731151) | 2015年8月16日  | 包含 | [阅读详情](#笨蛋部) | [BOOTH](https://booth.pm/ja/items/526423)
 凯之传奇 | 角色扮演 | 英文 | 2015年7月28日  | 无 | [阅读详情](#凯之传奇) | [Steam 商店](https://store.steampowered.com/app/313810/Legend_of_Kay_Anniversary/)
 FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](#FaceRig) | [Steam 商店](https://store.steampowered.com/app/274920/FaceRig/)
-AnotherBookmark | 视觉小说 | 简体中文 | 2014年10月12日  | 无 | [阅读详情](#Another-Bookmark) | [百度贴吧](https://tieba.baidu.com/p/3345903293)
+另一个书签 | 视觉小说 | 简体中文 | 2014年10月12日  | 无 | [阅读详情](#Another-Bookmark) | [百度贴吧](https://tieba.baidu.com/p/3345903293)
 愛する君へ | 视觉小说 | [汉化补丁](https://tieba.baidu.com/p/4807261773) | 2014年5月11日  | 包含 | [阅读详情](#愛する君へ) | [Pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=43445593)
 ケモノ戦士の夜這い | 模拟 | 日文 | 2013年5月25日  | 包含 | [阅读详情](#ケモノ戦士の夜這い) | [DIGIKET](https://www.digiket.com/work/show/_data/ID=ITM0082832/)
 Hello, 吳鍊 | 模拟 | 简体中文 | 2010年12月29日  | 无 | [阅读详情](#Hello-吳鍊) | [主页](https://zoharwolf.weebly.com/hello-2155537706.html)（失效）
