@@ -15,8 +15,11 @@ TUNIC | 动作 | 英文 | TBA  | 无 | [阅读详情](#TUNIC) | [Steam 商店](h
 雾岛渐次事件簿 | 视觉小说 | 日文 | TBA  | TBC | [阅读详情](#你看见过我的野兽吗雾岛渐次事件簿) | TBA
 生化变种 | 角色扮演 | 英文 | 2019年  | 无 | [阅读详情](#生化变种) | [Steam 商店](https://store.steampowered.com/app/597820/BIOMUTANT/)
 厄运七人组 | 恐怖 | 简体中文 | TBA  | 无 | [阅读详情](#厄运七人组) | [Steam 商店](https://store.steampowered.com/app/579120/Unlucky_Seven/)
+After Class | 视觉小说 | 英文 | TBA  | 包含 | [阅读详情](#After-Class) | [itch.io](https://andehp.itch.io/afterclass)
+课外活动 | 视觉小说 | 英文 | 2019年4月1日  | 包含 | [阅读详情](#课外活动) | [itch.io](https://dynewulf.itch.io/extracurricular-activities)
 Lovers of Aether | 视觉小说 | 英文 | 2019年4月1日  | 无 | [阅读详情](#Lovers-of-Aether) | [Steam 商店](https://store.steampowered.com/app/1043180/Lovers_of_Aether/)
 揭谛 | 文字冒险 | 简体中文 | 2019年2月10日  | 无 | [阅读详情](#揭谛) | [百度贴吧](https://tieba.baidu.com/p/6031889182)
+暗黑之门 | 视觉小说 | [汉化补丁](https://weibo.com/5587914091/GDjHQuWhT) | 2019年2月10日  | 包含 | [阅读详情](#暗黑之门) | [Patreon](https://www.patreon.com/blackgategame)
 超级动物大逃杀 | 射击生存 | 简体中文 | 2018年12月12日  | 无 | [阅读详情](#超级动物大逃杀) | [Steam 商店](https://store.steampowered.com/app/843380/Super_Animal_Royale/)
 绿叶之冠 | 视觉小说 | 英文 | 2018年11月27日  | 无 | [阅读详情](#绿叶之冠) | [Steam 商店](https://store.steampowered.com/app/604330/The_Crown_of_Leaves/)
 喵喵战争 | 卡牌 | 简体中文 | 2018年8月8日  | 无 | [阅读详情](#喵喵战争) | [Steam 商店](https://store.steampowered.com/app/762110/Meow_Wars_Card_Battle/)
@@ -40,7 +43,10 @@ Orekemo | 视觉小说 | [汉化补丁](https://share.weiyun.com/5M93onn) 7783ya
 凯之传奇 | 角色扮演 | 英文 | 2015年7月28日  | 无 | [阅读详情](#凯之传奇) | [Steam 商店](https://store.steampowered.com/app/313810/Legend_of_Kay_Anniversary/)
 FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](#FaceRig) | [Steam 商店](https://store.steampowered.com/app/274920/FaceRig/)
 愛する君へ | 视觉小说 | [汉化补丁](https://tieba.baidu.com/p/4807261773) | 2014年5月11日  | 包含 | [阅读详情](#愛する君へ) | [Pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=43445593)
+Hello, 吳鍊 | 模拟 | 简体中文 | 2010年12月29日  | 无 | [阅读详情](#Hello-吳鍊) | [主页](https://zoharwolf.weebly.com/hello-2155537706.html)（失效）
 咱的夏天。 | 视觉小说 | [汉化版](https://tieba.baidu.com/p/3452271872) | 2010年8月15日  | 包含 | [阅读详情](#咱的夏天) | 已解散
+Escape 逃 | 视觉小说 | 简体中文 | 2010年2月22日  | 包含 | [阅读详情](#Escape-逃) | [主页](https://zoharwolf.weebly.com/escape-36867.html)（失效）
+Kemono Code | 视觉小说 | 简体中文 | 2009年8月13日  | 包含 | [阅读详情](#Kemono-Code) | [主页](https://zoharwolf.weebly.com/kemono-code-37324.html)（失效）
 
 ## 形骸骑士
 ![img](img/007cpe1lly1g1bo9v4klmj31hc0u0u0y.jpg)
@@ -168,6 +174,18 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 > 
 > 在这个美丽的像素写实风世界中尽情冒险！你所做的每一个选择都将决定你朋友们的命运。探索参与者们的动机与欲望，并破坏他们的阴谋吧！
 
+## After Class
+![img](img/MBx34X.png)
+> After Class is an NSFW, gay, furry visual novel focused on the relationship between the main character (you) and the people you meet. Depending on your choices, you might learn something about them and even end up romancing one of them as the story progresses. Every choice you make has its consequences and it'll change the outcome of the story! 
+> 
+> You just moved to the city for a fresh start. It's your first day of college and you don't know anyone in the city. As you attend school, you met a bunch of new people. Some of them are nice, some of them are weird, some of them had a troubled past and so on. 
+> 
+> You make friends with them easily and quickly grow close to them. As you get closer with them, they start to open up to you and slowly show their other side that most people don't know. For some reason, a forgotten dream resurfaces after you meet them. Does it have anything to do with the people you met or is it only a coincidence?
+
+## 课外活动
+![img](img/WE_8qC.png)
+> Extracurricular Activities is a visual novel following the main character (you!) through his endeavor of trying to romance a member of his tennis team. The choices you make can impact the way you teammates react to you, so make your choices carefully.
+
 ## Lovers of Aether
 ![img](img/ss_63c10e13051f3b609f31c2975971e0804d2aa0d7.jpg)
 > Are you tired of fighting? Lovers of Aether is the game for you! This is a wholesome animal dating simulator set in the world of Rivals of Aether.
@@ -181,6 +199,12 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 > 游戏特色上，本作以“中式赛博朋克”为题材，尝试将中国传统文化、科学哲学理论（如AI理论、灵魂理论、唯物理论、量子理论等）、宗教文化（主要是佛教文化）、世界不同的艺术形式进行融合，也希望能丰富“兽人”这一类别所能具备的现实意义和内涵；另外，本作虽以“情感”为线索，但重点还是放在探讨一些包括“情感”在内的更为深入的问题；最后，因同类游戏中不乏情感交流、情色描写元素，所以本作便使用了一种比较另类的方式进行相关描写，全篇没有任何敏感字眼和图片，价值取向整体也算正面，所以我也不好定义是否属于R18。
 
 作者微博：[团购规划局](https://weibo.com/u/6989191897)
+
+## 暗黑之门
+![img](img/blackgate_build_0.108.png)
+> Welcome to Blackgate, a nonlinear visual novel about a town filled with monsters. The who, what, when, where, why, and how are up to you to figure out.
+> 
+> Blackgate is a mature visual novel of a mostly M/M nature. While there will be a limited number of scenes of a M/F nature, the game is intended to be mostly M/M. The game also contains elements of horror, violence, and some gore (separate from the sexual scenes). Prepare to hate everyone, and everything.
 
 ## 超级动物大逃杀
 ![img](img/ss_8c8dd48d8fd20650bbb41edab0bcebe2507e25f9.jpg)
@@ -410,8 +434,19 @@ FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](
 > 
 > 今後サイトに無料配布していく予定です。
 
+## Hello, 吳鍊
+![img](img/79656_orig.jpg)
+
 ## 咱的夏天。
 ![img](img/b3119313b07eca8087038d6d952397dda1448332.jpg)
 > 在高考前的最后一个暑假，在城市的主角收到小时候住的村子（水乡村）里朋友来信。因为祖父母还住在那里，主角就决定回老家探望。
 > 
 > 主角搭公车回到水乡村，遇见在巴士站等待他的虎彦，稍晚参加朋友们为他举办的欢迎会，介绍九个主要角色之后进入分歧点，在此选择故事进行的八条路线（其中一条路线包含两位主要角色）。
+
+## Escape 逃
+![img](img/5738193_orig.jpg)
+> 1998年春节前夕，形单影只的邵立冬终于鼓起勇气向自己一直喜欢的对象告白。随后，两人一起逃离了原本的生活，去创造属于自己的世界。但是新的生活并不像他想象的那样美好……
+
+## Kemono Code
+![img](img/7762786_orig.jpg)
+> 来自魔族的半兽半魔的青年伊沃，突然转学到一所兽人学园生活。这里是一个无论环境还是理念都与魔族大相径庭的世界。这里有闷骚的学纪委员长、放荡的足球队员、拜金的老师、害羞胆小的舍友，伊沃究竟能否在这里找到属于自己的真爱呢？
