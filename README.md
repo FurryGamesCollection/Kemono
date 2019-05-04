@@ -468,7 +468,7 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > メッセージの送り主、和虎を「たった三日間で！？」攻略できるのか！ 
 
 ## Great Troubles
-![img](img/1467117982.fumiko_7.jpg)
+![img](img/1467117982.fumiko_7.png)
 > At the beginning of the second semester a new student from the countryside is transfered to a famous city school. 
 > 
 > School days promised to be interesting and fun, but something went wrong...
