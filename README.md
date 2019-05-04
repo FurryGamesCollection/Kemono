@@ -10,7 +10,7 @@
 厷雏 | 视觉小说 | 中文 | TBA  | TBC | N/A | TBA
 围炉之礁湖 重制版  | 视觉小说 | 中文 | 2019年12月  | R18补丁 | N/A | Steam 商店
 阁楼之礁湖 重制版  | 视觉小说 | 中文 | 2019年9月  | R18补丁 | N/A | Steam 商店
-Kemo Coliseum  | 角色扮演 | 英/日 | TBA  | 包含 | [🐾](#Kemo-Coliseum) | Steam 商店
+Kemo Coliseum  | 角色扮演 | 英/日 | TBA  | 包含 | [🐾](#Kemo-Coliseum) | [Patreon](https://www.patreon.com/kemocoliseum)
 Backbone | 文字冒险 | 英文 | 2020年  | 无 | [🐾](#Backbone) | [Steam 商店](https://store.steampowered.com/app/865610/Backbone/)
 TUNIC | 动作 | 英文 | TBA  | 无 | [🐾](#TUNIC) | [Steam 商店](https://store.steampowered.com/app/553420/TUNIC/)
 雾岛渐次事件簿 | 视觉小说 | 日文 | TBA  | TBC | [🐾](#你看见过我的野兽吗雾岛渐次事件簿) | TBA
@@ -30,6 +30,7 @@ Amorous | 视觉小说 | 英文 | 2018年4月14日  | 无 | [🐾](#Amorous) | [
 Changed | 解谜 | 中文 | 2018年4月5日  | 无 | [🐾](#Changed) | [Steam 商店](https://store.steampowered.com/app/814540/Changed/)
 The Pirate's Fate | 视觉小说 | 英文 | 2018年3月27日  | 无 | [🐾](#The-Pirates-Fate) | [Steam 商店](https://store.steampowered.com/app/553480/The_Pirates_Fate/)
 Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [🐾](#Winds-of-Change) | [Steam 商店](https://store.steampowered.com/app/594130/Winds_of_Change/)
+兽祭~吸血鬼之夜 | 角色扮演 | 中文 | 2018年2月11日  | 无 | [🐾](#兽祭吸血鬼之夜) | [百度贴吧](https://tieba.baidu.com/p/5548778877)
 家有大猫  | 视觉小说 | 中文 | 2017年11月13日  | [R18补丁](https://store.nekojishi.tw/zh/product/nekojishi_limited/) | [🐾](#家有大猫) | [Steam 商店](https://store.steampowered.com/app/570840/_Nekojishi/)
 雄兽岛的秘密 | 视觉小说 | 日文 | 2017年10月25日  | 包含 | [🐾](#雄兽岛的秘密) | [DLSITE](https://www.dlsite.com/bl/work/=/product_id/RJ210651.html)
 尾牙 | 策略 | 中文 | 2017年9月13日  | 无 | [🐾](#尾牙) | [Steam 商店](https://store.steampowered.com/app/286000/Tooth_and_Tail/)
@@ -44,6 +45,7 @@ Orekemo | 视觉小说 | [汉化](https://share.weiyun.com/5M93onn) 7783ya | 201
 笨蛋部 | 视觉小说 | [汉化](https://tieba.baidu.com/p/4944731151) | 2015年8月16日  | 包含 | [🐾](#笨蛋部) | [BOOTH](https://booth.pm/ja/items/526423)
 凯之传奇 | 角色扮演 | 英文 | 2015年7月28日  | 无 | [🐾](#凯之传奇) | [Steam 商店](https://store.steampowered.com/app/313810/Legend_of_Kay_Anniversary/)
 FaceRig | 视频软件 | 中文 | 2015年7月7日  | 无 | [🐾](#FaceRig) | [Steam 商店](https://store.steampowered.com/app/274920/FaceRig/)
+彼时的约定 | 视觉小说 | 中文 | 2015年4月7日  | 无 | [🐾](#彼时的约定) | [百度贴吧](https://tieba.baidu.com/p/3686346007)
 Another Bookmark | 视觉小说 | 中文 | 2014年10月12日  | 无 | [🐾](#Another-Bookmark) | [百度贴吧](https://tieba.baidu.com/p/3345903293)
 愛する君へ | 视觉小说 | [汉化](https://tieba.baidu.com/p/4807261773) | 2014年5月11日  | 包含 | [🐾](#愛する君へ) | [Pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=43445593)
 ケモノ戦士の夜這い | 模拟 | 日文 | 2013年5月25日  | 包含 | [🐾](#ケモノ戦士の夜這い) | [DIGIKET](https://www.digiket.com/work/show/_data/ID=ITM0082832/)
@@ -327,6 +329,12 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 ![img](img/ss_8b76f333b93391b57297a90d909c299ae235729f.jpg)
 > Lead The Rebellion, build your army, and shape the world with your choices. A story-heavy adventure game with multiple endings, romance options, and non-linear storytelling. A vast dark fantasy world waiting to be explored. Inspired by Dragon Age, and Mass Effect. Fully voice acted by a stellar cast!
 
+## 兽祭~吸血鬼之夜
+![img](img/006WdMftgy1focmw37d3cj30fa0cc7cq.jpg)
+> 正篇《吸血鬼之夜》本来和往常一样的普普通通的周末，苍岚正在为了生活费被初寒花光而苦恼，突然二人被电视
+> 
+> 节目里提到的“悬赏吸血鬼的照片”的广告所吸引，于是乎，为了解决贫困潦倒的生活状况，二人决定出门寻找好友一起踏上“寻找”吸血鬼的冒险（？）
+
 ## 家有大猫
 ![img](img/ss_bf65c6eea4b2d4c0f42e0caaaef4207ba3785596.jpg)
 > 这是一个关于某个普通大学生突然看到了三位猫科动物神灵的故事。
@@ -447,6 +455,28 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 ## FaceRig
 ![img](img/ss_57f61e2b783c79acce5fd64dd200be7504ff71cc.jpg)
 > FaceRig is a program that aims to enable anyone with a webcam to digitally embody awesome characters. The output can be recorded as a movie or streamed to Skype, Twitch, Hangouts or any service that traditionally uses a webcam in real time.
+
+## 彼时的约定
+![img](img/41ee76d8f2d3572c01141c278e13632763d0c313.jpg)
+> “时间，不停止流逝。
+> 
+> 青春，是一片森林。
+> 
+> 我们，寻找也等待。
+> 
+> 只为，遇到那个人。”
+> 
+> 大三的学期末，接着暑假来临。
+> 
+> 主人公一武同学，遇到了很多人。
+> 
+> 命运的齿轮在我们看不见的角落转动着。
+> 
+> 三年前无疾而终的思绪......又再一次鼓动。
+> 
+> 随着时间的流逝，不着痕迹地在心中留下伤痕。
+> 
+> 人生很漫长，青春却短暂；我想，这是我青葱岁月的尾声。
 
 ## Another Bookmark
 ![img](img/37878864034f78f0dc8375857a310a55b2191ca2.jpg)
