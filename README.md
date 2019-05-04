@@ -10,6 +10,7 @@
 厷雏 | 视觉小说 | 简体中文 | TBA  | TBC | N/A | TBA
 围炉之礁湖 重制版  | 视觉小说 | 简体中文 | 2019年12月  | R18补丁 | N/A | Steam 商店
 阁楼之礁湖 重制版  | 视觉小说 | 简体中文 | 2019年9月  | R18补丁 | N/A | Steam 商店
+Kemo Coliseum  | 角色扮演 | 英文/日文 | TBA  | 包含 | [阅读详情](#Kemo-Coliseum) | Steam 商店
 Backbone | 文字冒险 | 英文 | 2020年  | 无 | [阅读详情](#Backbone) | [Steam 商店](https://store.steampowered.com/app/865610/Backbone/)
 TUNIC | 动作 | 英文 | TBA  | 无 | [阅读详情](#TUNIC) | [Steam 商店](https://store.steampowered.com/app/553420/TUNIC/)
 雾岛渐次事件簿 | 视觉小说 | 日文 | TBA  | TBC | [阅读详情](#你看见过我的野兽吗雾岛渐次事件簿) | TBA
@@ -30,6 +31,7 @@ Changed | 解谜 | 简体中文 | 2018年4月5日  | 无 | [阅读详情](#Chang
 The Pirate's Fate | 视觉小说 | 英文 | 2018年3月27日  | 无 | [阅读详情](#The-Pirates-Fate) | [Steam 商店](https://store.steampowered.com/app/553480/The_Pirates_Fate/)
 Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [阅读详情](#Winds-of-Change) | [Steam 商店](https://store.steampowered.com/app/594130/Winds_of_Change/)
 家有大猫  | 视觉小说 | 简体中文 | 2017年11月13日  | [R18补丁](https://store.nekojishi.tw/zh/product/nekojishi_limited/) | [阅读详情](#家有大猫) | [Steam 商店](https://store.steampowered.com/app/570840/_Nekojishi/)
+雄兽岛的秘密 | 视觉小说 | 日文 | 2017年10月25日  | 包含 | [阅读详情](#雄兽岛的秘密) | [DLSITE](https://www.dlsite.com/bl/work/=/product_id/RJ210651.html)
 尾牙 | 策略 | 简体中文 | 2017年9月13日  | 无 | [阅读详情](#尾牙) | [Steam 商店](https://store.steampowered.com/app/286000/Tooth_and_Tail/)
 亮晶晶：闪闪王国 | 动作角色扮演 | 英文 | 2017年4月18日  | 无 | [阅读详情](#亮晶晶闪闪王国) | [Steam 商店](https://store.steampowered.com/app/366640/Shiness_The_Lightning_Kingdom/)
 林中之夜 | 文字冒险 | 英文 | 2017年2月21日  | 无 | [阅读详情](#林中之夜) | [Steam 商店](https://store.steampowered.com/app/481510/Night_in_the_Woods/)
@@ -42,7 +44,9 @@ Orekemo | 视觉小说 | [汉化补丁](https://share.weiyun.com/5M93onn) 7783ya
 笨蛋部 | 视觉小说 | [汉化补丁](https://tieba.baidu.com/p/4944731151) | 2015年8月16日  | 包含 | [阅读详情](#笨蛋部) | [BOOTH](https://booth.pm/ja/items/526423)
 凯之传奇 | 角色扮演 | 英文 | 2015年7月28日  | 无 | [阅读详情](#凯之传奇) | [Steam 商店](https://store.steampowered.com/app/313810/Legend_of_Kay_Anniversary/)
 FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](#FaceRig) | [Steam 商店](https://store.steampowered.com/app/274920/FaceRig/)
+Another Bookmark | 视觉小说 | 简体中文 | 2014年10月12日  | 无 | [阅读详情](#Another-Bookmark) | [百度贴吧](https://tieba.baidu.com/p/3345903293)
 愛する君へ | 视觉小说 | [汉化补丁](https://tieba.baidu.com/p/4807261773) | 2014年5月11日  | 包含 | [阅读详情](#愛する君へ) | [Pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=43445593)
+ケモノ戦士の夜這い | 模拟 | 日文 | 2013年5月25日  | 包含 | [阅读详情](#ケモノ戦士の夜這い) | [DIGIKET](https://www.digiket.com/work/show/_data/ID=ITM0082832/)
 Hello, 吳鍊 | 模拟 | 简体中文 | 2010年12月29日  | 无 | [阅读详情](#Hello-吳鍊) | [主页](https://zoharwolf.weebly.com/hello-2155537706.html)（失效）
 咱的夏天。 | 视觉小说 | [汉化版](https://tieba.baidu.com/p/3452271872) | 2010年8月15日  | 包含 | [阅读详情](#咱的夏天) | 已解散
 Escape 逃 | 视觉小说 | 简体中文 | 2010年2月22日  | 包含 | [阅读详情](#Escape-逃) | [主页](https://zoharwolf.weebly.com/escape-36867.html)（失效）
@@ -141,6 +145,24 @@ Kemono Code | 视觉小说 | 简体中文 | 2009年8月13日  | 包含 | [阅读
 ## 围炉之礁湖 重制版
 
 ## 阁楼之礁湖 重制版
+
+## Kemo Coliseum
+![img](img/AldYLnI.jpg)
+> Kemo Coliseum is an adult puzzle RPG game. Players will take a role of one of the heroes and participate in the tournament in the Kingdom of Kornelia. The winner of the tournament will be rewarded with a title of a "Gladiator", and a chance ask one wish to be granted by the king of Kornelia.
+> 
+> The game is a mix of a match-3 puzzle game with RPG elements. Matching three or more gems of the same type to erase them from the board. Each gem type will result in different action, ranging from a physical attack to charging your skills. Fans of [PuzzleQuest](http://store.steampowered.com/app/12500/) will get a hang of the game very quickly, but even if you have never played PuzzleQuest before, the game is very easy to learn. 
+> 
+> While the goal of the game is to win the tournament, there are many things for you to do before you continue to the next round. Helping people in the town by completing quests, finding rare items and improve your skill by exploring the dungeons, or build relationship with other contestants. 
+> 
+> Kemo Coliseum will be freely available on OSX and Windows once it's finished. 
+> 
+> ケモコロシアムはアダルトパズルRPGです。プレイヤーはキャラクターを一人選んで、コーネリア王国のトーナメントに出場します。優勝者は「剣闘士」の称号を得ると共にコーネリア王から願い事を叶えてもらえます。
+> 
+> ゲームプレイはマッチ３パズルにRPG要素を足したものです。画面中心に盤上があり、たくさんの色のジェムが並んでいます。そのジェムを３つ以上揃えることで敵に対して様々な行動を起こします。「パズルクエスト」を遊んだことがあるなら分かりやすいでしょう。パズルクエストを未プレイの方でも簡単に遊べますよ。
+> 
+> ゲームの目的はトーナメントで優勝することですが、他にもたくさん遊べる要素があります。街の人をクエストで助けたり、貴重なアイテムを探したり、ダンジョンを探索してスキルを磨いたり、他のトーナメント出場者と関係を深めることもできます。
+> 
+> ケモコロシアムは Mac OSX と Windows で、フリーで公開される予定です。
 
 ## Backbone
 ![img](img/ss_37ca57d513fe0b175d5dcf6aef47e2c4ab95d2e6.jpg)
@@ -323,6 +345,16 @@ Kemono Code | 视觉小说 | 简体中文 | 2009年8月13日  | 包含 | [阅读
 
 官方微博：[家有大猫微博](https://weibo.com/u/5843616745)
 
+## 雄兽岛的秘密
+![img](img/RJ210651_img_smp2.jpg)
+> 現代の桃源郷とも言われているオスケモアイランドに来た主人公が、オスケモといちゃいちゃするビジュアルノベルゲームとなっております。 
+> 
+> 小説『オスケモアイランドの秘密』の後日談となりますが、簡単なおさらいのためのシナリオが含まれているので読んでいなくても遊んでいただけるかと思います。 
+> 
+> 下記のたくさんの人にご助力いただいて、やっと完成できました。 
+> 
+> 楽しんでもらえると嬉しいです。 
+
 ## 尾牙
 ![img](img/ss_e4242b60ba7de5e63ab298b7cd96deccfe9e65d1.jpg)
 > 大军所向披靡，你将率领喷射火焰的野猪，释放芥子毒气的臭鼬，还有呕吐伞兵猫头鹰引领一场变革。来自 Monaco：What's Yours is Mine 开发组的最新力作《尾牙》是一款包含单人模式，在线对战，分屏对战，精彩重放等许许多多内容的创新即时战略游戏。
@@ -416,6 +448,26 @@ Kemono Code | 视觉小说 | 简体中文 | 2009年8月13日  | 包含 | [阅读
 ![img](img/ss_57f61e2b783c79acce5fd64dd200be7504ff71cc.jpg)
 > FaceRig is a program that aims to enable anyone with a webcam to digitally embody awesome characters. The output can be recorded as a movie or streamed to Skype, Twitch, Hangouts or any service that traditionally uses a webcam in real time.
 
+## Another Bookmark
+![img](img/37878864034f78f0dc8375857a310a55b2191ca2.jpg)
+> 基于《远吠书签》原作的世界线有所交集。
+> 
+> 世界观构成、全新的人物、和原创的故事！
+> 
+> 这次是完整修正版~因为某些底层改变恕无法提供补丁升级。
+> 
+> “我曾以为时光的流淌悄无声息。
+> 
+> 然而那个暑假的些许误解，完全改变了这一切。
+> 
+> 在那充满矛盾与复杂情感的内心深处......
+> 
+> 如果曾经的时光可以停留，我想我会一直赖着不走。”
+> 
+> 人生很漫长，青春却短暂；这次，我把这个故事讲完。
+> 
+> 注：《远吠书签》原作的漫画作者已支持。
+
 ## 愛する君へ
 ![img](img/CiREQuCUgAEm8sA.jpg)
 > こんにちわ、KENNです。
@@ -433,6 +485,18 @@ Kemono Code | 视觉小说 | 简体中文 | 2009年8月13日  | 包含 | [阅读
 > ２０日後の６月１日あたりには先行配信は終了し
 > 
 > 今後サイトに無料配布していく予定です。
+
+## ケモノ戦士の夜這い
+![img](img/ITM0082832_s1.jpg)
+> ケモノ戦士「ジグマール」に雇われた「コルビー」(あなた)は 
+> 
+> クエスト最後の日を迎えていた。 
+> 
+> ジグマールは森の中でテントを張り、すでに眠りについている。 
+> 
+> 夜番を引き受けたあなたは、密かに抱く恋心を抑えきれず、 
+> 
+> 「決して入るな」と言われていたジグマールが眠るテントに忍びこんでしまう。 
 
 ## Hello, 吳鍊
 ![img](img/79656_orig.jpg)
