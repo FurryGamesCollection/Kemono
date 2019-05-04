@@ -649,7 +649,7 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > ほのぼのエッチなノベルゲームでお楽しみください！
 
 ## Mugen Delga
-![img](img/79656_orig.jpg)
+![img](img/4.JPG)
 > 操作方式:類似外頭的大型機台格鬥遊戲 使用MUGEN的系統製作 可以到設定區更改設定
 > 
 > 遊戲中可以選擇九位可以虐待 性侵 吞食 DELGA的角色 
@@ -669,7 +669,7 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > 主角搭公车回到水乡村，遇见在巴士站等待他的虎彦，稍晚参加朋友们为他举办的欢迎会，介绍九个主要角色之后进入分歧点，在此选择故事进行的八条路线（其中一条路线包含两位主要角色）。
 
 ## Blank Blood Delga
-![img](img/Blank Blood Delga version.png)
+![img](img/BlankBloodDelga.png)
 > 1. 主要角色是 Delga
 > 2. 射擊的角色仍然是小妹
 > 3. Delga 的所有死亡動作完成
