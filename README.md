@@ -8,8 +8,8 @@
 煦风新笺 | 视觉小说 | 中文 | TBA  | TBC | N/A | N/A
 心之符 | 角色扮演 | 中文 | TBA  | 包含 | [🐾](#心之符) | [官网](http://notesofhearts.com/index_cn.html#anchor5)
 厷雏 | 视觉小说 | 中文 | TBA  | TBC | N/A | TBA
-围炉之礁湖 重制版  | 视觉小说 | 中文 | 2019年12月  | R18补丁 | N/A | Steam 商店
-阁楼之礁湖 重制版  | 视觉小说 | 中文 | 2019年9月  | R18补丁 | N/A | Steam 商店
+围炉之礁湖 重制版  | 视觉小说 | 中文 | 2019年12月  | 补丁 | N/A | Steam 商店
+阁楼之礁湖 重制版  | 视觉小说 | 中文 | 2019年9月  | 补丁 | N/A | Steam 商店
 Kemo Coliseum  | 角色扮演 | 英/日 | TBA  | 包含 | [🐾](#Kemo-Coliseum) | [Patreon](https://www.patreon.com/kemocoliseum)
 Backbone | 文字冒险 | 英文 | 2020年  | 无 | [🐾](#Backbone) | [Steam 商店](https://store.steampowered.com/app/865610/Backbone/)
 TUNIC | 动作 | 英文 | TBA  | 无 | [🐾](#TUNIC) | [Steam 商店](https://store.steampowered.com/app/553420/TUNIC/)
@@ -26,7 +26,7 @@ Notes from the Cape | 视觉小说 | 英文 | 2019年1月16日  | 包含 | [🐾
 超级动物大逃杀 | 射击生存 | 中文 | 2018年12月12日  | 无 | [🐾](#超级动物大逃杀) | [Steam 商店](https://store.steampowered.com/app/843380/Super_Animal_Royale/)
 绿叶之冠 | 视觉小说 | 英文 | 2018年11月27日  | 无 | [🐾](#绿叶之冠) | [Steam 商店](https://store.steampowered.com/app/604330/The_Crown_of_Leaves/)
 喵喵战争 | 卡牌 | 中文 | 2018年8月8日  | 无 | [🐾](#喵喵战争) | [Steam 商店](https://store.steampowered.com/app/762110/Meow_Wars_Card_Battle/)
-秘密之礁湖 重制版  | 视觉小说 | 中文 | 2018年7月6日  | [R18补丁](http://www.kaiju09.com/lagoonloungeEnglish/) | [🐾](#秘密之礁湖-重制版) | [Steam 商店](https://store.steampowered.com/app/857690/Lagoon_Lounge__The_Poisonous_Fountain/)
+秘密之礁湖 重制版  | 视觉小说 | 中文 | 2018年7月6日  | [补丁](http://www.kaiju09.com/lagoonloungeEnglish/) | [🐾](#秘密之礁湖-重制版) | [Steam 商店](https://store.steampowered.com/app/857690/Lagoon_Lounge__The_Poisonous_Fountain/)
 咱的夏天 重制版  | 视觉小说 | [汉化WiP](https://weibo.com/5855556803/H9XVcA95K) | 2018年6月20日  | 包含 | [🐾](#咱的夏天-重制版) | [Fur Affinity](https://www.furaffinity.net/view/27724241/)
 Just, Bearly | 模拟 | 英文 | 2018年5月31日  | 无 | [🐾](#Just-Bearly) | [Steam 商店](https://store.steampowered.com/app/792030/Just_Bearly/)
 Willy Bear Beach 2 | 英文 | 2018年5月17日  | 包含 | [🐾](#Willy-Bear-Beach-2) | [itch.io](https://artdecade.itch.io/willy-bear-beach-2)
