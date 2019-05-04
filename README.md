@@ -1,7 +1,7 @@
-# Kemono
+# PC游戏
 游戏名称  | 游戏类型  | 语言 | 发行日期 | 成人 | 介绍 | 获取方式
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------:
-形骸骑士 | 平台动作 | 中文 | TBA  | 无 | [🐾](#形骸骑士) | TBA
+形骸骑士 | 平台动作 | 中文 | TBA  | 无 | [🐾](#形骸骑士) | Steam 商店
 罗曼圣诞探案集 | 文字冒险 | 中文 | TBA  | 无 | [🐾](#罗曼圣诞探案集) | [Steam 商店](https://store.steampowered.com/app/926340/Romans_Christmas/)
 履云录 | 战棋 | 中文 | TBA  | TBC | [🐾](#履云录) | TBA
 佚失的终章 | 视觉小说 | 中文 | TBA  | TBC | N/A | TBA
@@ -17,15 +17,20 @@ TUNIC | 动作 | 英文 | TBA  | 无 | [🐾](#TUNIC) | [Steam 商店](https://s
 生化变种 | 角色扮演 | 英文 | 2019年  | 无 | [🐾](#生化变种) | [Steam 商店](https://store.steampowered.com/app/597820/BIOMUTANT/)
 厄运七人组 | 恐怖 | 中文 | TBA  | 无 | [🐾](#厄运七人组) | [Steam 商店](https://store.steampowered.com/app/579120/Unlucky_Seven/)
 After Class | 视觉小说 | 英文 | TBA  | 包含 | [🐾](#After-Class) | [itch.io](https://andehp.itch.io/afterclass)
+咱的夏天 返乡版  | 视觉小说 | 英文 | TBA  | 包含 | [🐾](#咱的夏天-返乡版) | [itch.io](https://stormsingerstudios.itch.io/homecoming-morenatsu-revisited)
 课外活动 | 视觉小说 | 英文 | 2019年4月1日  | 包含 | [🐾](#课外活动) | [itch.io](https://dynewulf.itch.io/extracurricular-activities)
 Lovers of Aether | 视觉小说 | 英文 | 2019年4月1日  | 无 | [🐾](#Lovers-of-Aether) | [Steam 商店](https://store.steampowered.com/app/1043180/Lovers_of_Aether/)
 揭谛 | 文字冒险 | 中文 | 2019年2月10日  | 无 | [🐾](#揭谛) | [百度贴吧](https://tieba.baidu.com/p/6031889182)
 暗黑之门 | 视觉小说 | [汉化](https://weibo.com/5587914091/GDjHQuWhT) | 2019年2月10日  | 包含 | [🐾](#暗黑之门) | [Patreon](https://www.patreon.com/blackgategame)
+Notes from the Cape | 视觉小说 | 英文 | 2019年1月16日  | 包含 | [🐾](#Notes-from-the-Cape) | [itch.io](https://artdecade.itch.io/notesseason1)
 超级动物大逃杀 | 射击生存 | 中文 | 2018年12月12日  | 无 | [🐾](#超级动物大逃杀) | [Steam 商店](https://store.steampowered.com/app/843380/Super_Animal_Royale/)
 绿叶之冠 | 视觉小说 | 英文 | 2018年11月27日  | 无 | [🐾](#绿叶之冠) | [Steam 商店](https://store.steampowered.com/app/604330/The_Crown_of_Leaves/)
 喵喵战争 | 卡牌 | 中文 | 2018年8月8日  | 无 | [🐾](#喵喵战争) | [Steam 商店](https://store.steampowered.com/app/762110/Meow_Wars_Card_Battle/)
 秘密之礁湖 重制版  | 视觉小说 | 中文 | 2018年7月6日  | [R18补丁](http://www.kaiju09.com/lagoonloungeEnglish/) | [🐾](#秘密之礁湖-重制版) | [Steam 商店](https://store.steampowered.com/app/857690/Lagoon_Lounge__The_Poisonous_Fountain/)
+咱的夏天 重制版  | 视觉小说 | [汉化WiP](https://weibo.com/5855556803/H9XVcA95K) | 2018年6月20日  | 包含 | [🐾](#咱的夏天-重制版) | [Fur Affinity](https://www.furaffinity.net/view/27724241/)
 Just, Bearly | 模拟 | 英文 | 2018年5月31日  | 无 | [🐾](#Just-Bearly) | [Steam 商店](https://store.steampowered.com/app/792030/Just_Bearly/)
+Willy Bear Beach 2 | 英文 | 2018年5月17日  | 包含 | [🐾](#Willy-Bear-Beach-2) | [itch.io](https://artdecade.itch.io/willy-bear-beach-2)
+Omensight | 中文 | 2018年5月16日  | 无 | [🐾](#Omensight) | [Steam 商店](https://store.steampowered.com/app/455820/Omensight_Definitive_Edition/)
 Amorous | 视觉小说 | 英文 | 2018年4月14日  | 无 | [🐾](#Amorous) | [Steam 商店](https://store.steampowered.com/app/778700/Amorous/)
 Changed | 解谜 | 中文 | 2018年4月5日  | 无 | [🐾](#Changed) | [Steam 商店](https://store.steampowered.com/app/814540/Changed/)
 The Pirate's Fate | 视觉小说 | 英文 | 2018年3月27日  | 无 | [🐾](#The-Pirates-Fate) | [Steam 商店](https://store.steampowered.com/app/553480/The_Pirates_Fate/)
@@ -35,10 +40,12 @@ Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [🐾](#Wind
 雄兽岛的秘密 | 视觉小说 | 日文 | 2017年10月25日  | 包含 | [🐾](#雄兽岛的秘密) | [DLSITE](https://www.dlsite.com/bl/work/=/product_id/RJ210651.html)
 尾牙 | 策略 | 中文 | 2017年9月13日  | 无 | [🐾](#尾牙) | [Steam 商店](https://store.steampowered.com/app/286000/Tooth_and_Tail/)
 亮晶晶：闪闪王国 | 动作角色扮演 | 英文 | 2017年4月18日  | 无 | [🐾](#亮晶晶闪闪王国) | [Steam 商店](https://store.steampowered.com/app/366640/Shiness_The_Lightning_Kingdom/)
+以太之战 | 格斗 | 英文 | 2017年3月29日  | 无 | [🐾](#以太之战) | [Steam 商店](https://store.steampowered.com/app/383980/Rivals_of_Aether/)
 林中之夜 | 文字冒险 | 英文 | 2017年2月21日  | 无 | [🐾](#林中之夜) | [Steam 商店](https://store.steampowered.com/app/481510/Night_in_the_Woods/)
 鳞翼天使 | 视觉小说 | [汉化](https://steamcommunity.com/sharedfiles/filedetails/?id=1631230813) | 2017年2月1日  | 无 | [🐾](#鳞翼天使) | [Steam 商店](https://store.steampowered.com/app/571880/Angels_with_Scaly_Wings/)
 大调小调完整版 | 视觉小说 | 英文 | 2016年10月11日  | 无 | [🐾](#大调小调完整版) | [Steam 商店](https://store.steampowered.com/app/475490/MajorMinor__Complete_Edition/)
-Orekemo | 视觉小说 | [汉化](https://share.weiyun.com/5M93onn) 7783ya | 2016年9月25日  | 包含 | [🐾](#你看见过我的野兽吗) | [DIGIKET](http://www.digiket.com/work/show/_data/ID=ITM0144580/)
+Orekemo | 视觉小说 | [汉化](https://pan.baidu.com/s/1-o6N8xe4-AVoj7bKDM_l0g) 1xzs | 2016年9月25日  | 包含 | [🐾](#你看见过我的野兽吗) | [DIGIKET](http://www.digiket.com/work/show/_data/ID=ITM0144580/)
+Great Troubles | 视觉小说 | 英文 | 2016年6月28日  | 包含 | [🐾](#Great-Troubles) | [Fur Affinity](https://www.furaffinity.net/view/20409644/)
 传说：命运之路 | 动作角色扮演 | [汉化](https://steamcn.com/t429856-1-1) | 2016年4月12日  | 无 | [🐾](#传说命运之路) | [Steam 商店](https://store.steampowered.com/app/439190/Stories_The_Path_of_Destinies/)
 阿门罗 | 卡牌策略 | 中文 | 2015年9月2日  | 无 | [🐾](#阿门罗) | [Steam 商店](https://store.steampowered.com/app/290340/Armello/)
 蛮荒兽族 | 文字冒险 | 中文 | 2015年8月16日  | 无 | [🐾](#蛮荒兽族) | [橙光](https://www.66rpg.com/game/356881)
@@ -46,6 +53,7 @@ Orekemo | 视觉小说 | [汉化](https://share.weiyun.com/5M93onn) 7783ya | 201
 凯之传奇 | 角色扮演 | 英文 | 2015年7月28日  | 无 | [🐾](#凯之传奇) | [Steam 商店](https://store.steampowered.com/app/313810/Legend_of_Kay_Anniversary/)
 FaceRig | 视频软件 | 中文 | 2015年7月7日  | 无 | [🐾](#FaceRig) | [Steam 商店](https://store.steampowered.com/app/274920/FaceRig/)
 彼时的约定 | 视觉小说 | 中文 | 2015年4月7日  | 无 | [🐾](#彼时的约定) | [百度贴吧](https://tieba.baidu.com/p/3686346007)
+Willy Bear Beach | 视觉小说 | 英文 | 2015年3月6日  | 包含 | [🐾](#Willy-Bear-Beach) | [itch.io](https://artdecade.itch.io/willy-bear-beach)
 Another Bookmark | 视觉小说 | 中文 | 2014年10月12日  | 无 | [🐾](#Another-Bookmark) | [百度贴吧](https://tieba.baidu.com/p/3345903293)
 愛する君へ | 视觉小说 | [汉化](https://tieba.baidu.com/p/4807261773) | 2014年5月11日  | 包含 | [🐾](#愛する君へ) | [Pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=43445593)
 ケモノ戦士の夜這い | 模拟 | 日文 | 2013年5月25日  | 包含 | [🐾](#ケモノ戦士の夜這い) | [DIGIKET](https://www.digiket.com/work/show/_data/ID=ITM0082832/)
@@ -53,6 +61,15 @@ Hello, 吳鍊 | 模拟 | 中文 | 2010年12月29日  | 无 | [🐾](#Hello-吳�
 咱的夏天。 | 视觉小说 | [汉化版](https://tieba.baidu.com/p/3452271872) | 2010年8月15日  | 包含 | [🐾](#咱的夏天) | 已解散
 Escape 逃 | 视觉小说 | 中文 | 2010年2月22日  | 包含 | [🐾](#Escape-逃) | [主页](https://zoharwolf.weebly.com/escape-36867.html)（失效）
 Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemono-Code) | [主页](https://zoharwolf.weebly.com/kemono-code-37324.html)（失效）
+
+# 非PC游戏
+
+游戏名称  | 游戏类型
+:-------------: | :-------------:
+星际火狐 | 射击
+天空机器人 | 战斗角色扮演
+
+# 详细介绍
 
 ## 形骸骑士
 ![img](img/007cpe1lly1g1bo9v4klmj31hc0u0u0y.jpg)
@@ -206,6 +223,12 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > 
 > You make friends with them easily and quickly grow close to them. As you get closer with them, they start to open up to you and slowly show their other side that most people don't know. For some reason, a forgotten dream resurfaces after you meet them. Does it have anything to do with the people you met or is it only a coincidence?
 
+## 咱的夏天 返乡版
+![img](img/hEbR1B.jpg)
+> In Homecoming, you take on the role of a young Japanese snow fox named Hiroyuki Nishimura. After moving away from your hometown Minasato to Osaka five years ago, you receive an unexpected letter from an old friend inviting you back for one last summer vacation before starting your senior year of high school. What complicates things is how you've neglected to contact any of your friends over the years. Although nervous, you accept the invitation.
+> 
+> What awaits you back in Minasato? Will you be welcomed with open arms, or has it been so long that everyone has forgotten about you? Will this be yet another wasted summer, or will you finally have the chance to experience what makes life worth living?
+
 ## 课外活动
 ![img](img/WE_8qC.png)
 > Extracurricular Activities is a visual novel following the main character (you!) through his endeavor of trying to romance a member of his tennis team. The choices you make can impact the way you teammates react to you, so make your choices carefully.
@@ -229,6 +252,12 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > Welcome to Blackgate, a nonlinear visual novel about a town filled with monsters. The who, what, when, where, why, and how are up to you to figure out.
 > 
 > Blackgate is a mature visual novel of a mostly M/M nature. While there will be a limited number of scenes of a M/F nature, the game is intended to be mostly M/M. The game also contains elements of horror, violence, and some gore (separate from the sexual scenes). Prepare to hate everyone, and everything.
+
+## Notes from the Cape
+![img](img/Z1DtNI.jpg)
+> Notes from the Cape is a visual novella series about the citizens of Cape Bottom Sail, a beach town and tourist destination on a peaceful, idyllic version of Earth. Episodes vary from slice of life, to cute and horny, to sincere and sweet. Expect some adult situations, nudity, and sex. This is an adults only series.
+> 
+> This package contains all twelve episodes of season 1, which takes place between Willy Bear Beach 1 & Willy Bear Beach 2. It also contains image packs for every episode, except for the pilot.
 
 ## 超级动物大逃杀
 ![img](img/ss_8c8dd48d8fd20650bbb41edab0bcebe2507e25f9.jpg)
@@ -260,6 +289,17 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 ## 喵喵战争
 ![img](img/ss_d000073bc884d18d9dbc60b73925ed2bb36d3c2c.jpg)
 > Meow Wars是一个猫主题的卡牌战斗游戏，具有极易掌握的机制和迷人的手绘人物。一路争战，战胜每个挑战者，接近 指挥官卡特拉特并从他的铁腕下解放猫岛。每个阶段都会向令人信服的猫科动物故事中引入一只新猫和新的卡牌能力。在PVP对决中挑战您的朋友，或者测试您对抗全球观众的力量。 
+
+## 咱的夏天 重制版
+![img](img/pythonw.png)
+> 1. 重制版是国外大神团队在原版的基础上制作的同人作品，该作的大部分立绘、场景、CG等都秉承了原版的画风，音乐方面引入了一些符合现代元素的电子音乐。
+> 2. 重制版与原版最大的不同是剧情内容，重制版在8月15日（原版游戏划分攻略对象的日子）之前加入了很多全新的剧情内容，原作中的9位人物都有了新的剧情。
+> 3. 因为是0.5版本，所以该版本只有4条线是完整的：辰树 柔一 深以及新加入的巅。其他6人的剧情只能进行到野营部分，所以呼声最高的虎彦线还是没有（划掉）。
+> 4. 重制版也存在着跟原版大体一致的内容，但该版在细节设定上进行了一些相应的改变。
+> 5. 游戏中出现了新的面孔，他们也带来了新的剧情，比如：京慈的妹妹智叶，柔一的弟弟坚二，孝之助的父亲兵助（然而都没有立绘）……
+> 6. 巅线的触发方式较为特殊，需要玩家在柔一线中触发特定的剧情后才可以进入，为了保证游玩的乐趣性，具体内容还望玩家之后自行探索，在此不多做透露。
+> 7. 很可惜，原作中每日在地图界面选择不同地点决定今日活动的环节被修改了，重制版则是简单地让玩家在几个选项中做出抉择。
+> 8. 上述提到的另外6人的剧情线很遗憾无法在重制版中游玩，国外大神之后会在“返乡版”中继续制作。
 
 ## 秘密之礁湖 重制版
 ![img](img/ss_16da5557f52a53034138c418d5dd61a163ebcb4f.jpg)
@@ -300,6 +340,22 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > A comedic story game played in vignettes, about feeling anxious as a bear in inner city Melbourne, Australia, and trying to connect to people none the less. 
 > 
 > Click, pull, mash, and guide your way through an ever changing mix of dialogue choices, reaction challenges, dexterity tests, rhythm games and God only knows what else as you overthink and under-perform your way through every day life -- Striving towards greatness and being less of an awkward, anxious, crap.
+
+## Willy Bear Beach 2
+![img](img/diDm_1.jpg)
+> In the idyllic town of Cape Bottom Sail, Willy the Bear finds himself with a week off and nothing to do. You'll guide him through his time off by visiting the town's various locations, meeting his friends, finding items, and by simply enjoying the peaceful and serene atmosphere of the cape. And if you're lucky, you might just get some action while you're at it.
+> 
+> Willy Bear Beach 2 is an interactive visual novel featuring an ambient, slice of life story with hundreds of pages of dialogue, including full paths for each of the main characters, complete with unlockable scenes. It is designed to be played through several times. 
+
+## Omensight
+![img](img/ss_1566e2ccc652604a2354e42995080dfac7b1d112.jpg)
+> Omensight是一个动作皆谋杀侦探式游戏。你是先驱者，一个强大无比的神秘战士。你目睹了世界的毁灭。为了防止末日的发生，你必须重复这一天，以揭开无神女祭司被谋杀的谜底，因为她的死亡是促成末日的启示。
+> 
+> 你是先驱者，只在危机时期才出现的神话战士。乌拉利亚的土地被战争撕裂了。但更糟糕的是：当夜幕降临时，你将目睹世界被一个黑暗之神毁灭。
+> 
+> 你有能力重复末日当天的事故。通过领导调查，与末日有关的角色一起互动，跟他们合作或者作战，并运用 Omensight 的能力来量新编织新的叙述。
+> 
+> 通过你的决定，技能和智慧，你可以改变当天的过程，也许能为更光明的未来铺路。
 
 ## Amorous
 ![img](img/ss_21d8755d371aaeee213b41ea8991667e8dd9e60d.jpg)
@@ -385,6 +441,10 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 ![img](img/ss_ef42c0f7fb672024d4dd72516f7ebdc08268cc16.jpg)
 > Shiness is an Action-RPG developed by indie development studio Enigami, which will let you travel in a captivating universe doomed to destruction ever since the fragmentation of the planet Mahera...
 
+## 以太之战
+![img](img/ss_2f3c2a1867b906f720fc43be56084c06e93b55c2.jpg)
+> RIVALS OF AETHER is an indie fighting game set in a world where warring civilizations summon the power of Fire, Water, Air, and Earth. Choose a Rival to bring into the battlefield and manipulate the powers of the classical elements and animal movement. Praised for its competitive gameplay and intensive training tools, Rivals of Aether is the perfect entry to the Platform Fighter genre.
+
 ## 林中之夜
 ![img](img/ss_be58beee5186f4b06b828a90a126f47cca55ae0a.jpg)
 > NIGHT IN THE WOODS is an adventure game focused on exploration, story, and character, featuring dozens of characters to meet and lots to do across a lush, vibrant world.
@@ -406,6 +466,12 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > 三連休を目の前にしたある日、どこか見覚えのあるIDから、突然のメッセージが……！ 
 > 
 > メッセージの送り主、和虎を「たった三日間で！？」攻略できるのか！ 
+
+## Great Troubles
+![img](img/1467117982.fumiko_7.jpg)
+> At the beginning of the second semester a new student from the countryside is transfered to a famous city school. 
+> 
+> School days promised to be interesting and fun, but something went wrong...
 
 ## 传说：命运之路
 ![img](img/ss_7b9f1a9b79ff9aaa8d29a1dd480480c4b439df57.jpg)
@@ -477,6 +543,12 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > 随着时间的流逝，不着痕迹地在心中留下伤痕。
 > 
 > 人生很漫长，青春却短暂；我想，这是我青葱岁月的尾声。
+
+## Willy Bear Beach
+![img](img/I06fKJ.jpg)
+> Willy Bear lives in the idealized east coast town of Cape Bottom Sail, where everyone is friendly, flirty, and carefree! As the player, you'll guide Willy through an average day, where you'll run into friends both old and new, and maybe even bring one of them back to your place for the night!
+> 
+> Willy Bear Beach is a visual novel with a cute, light story, and branching paths. It's a short game with eight different endings, and it's designed to be played through several times. It contains explicit scenes and is for adults only.
 
 ## Another Bookmark
 ![img](img/37878864034f78f0dc8375857a310a55b2191ca2.jpg)
