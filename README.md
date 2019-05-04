@@ -1,56 +1,56 @@
 # Kemono
-游戏名称  | 游戏类型  | 支持语言 | 发行日期 | 成人内容 | 游戏介绍 | 获取方式
+游戏名称  | 游戏类型  | 支持语言 | 发行日期 | 成人 | 游戏介绍 | 获取方式
 :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------: | :-------------:
-形骸骑士 | 平台动作 | 简体中文 | TBA  | 无 | [阅读详情](#形骸骑士) | TBA
-罗曼圣诞探案集 | 文字冒险 | 简体中文 | TBA  | 无 | [阅读详情](#罗曼圣诞探案集) | [Steam 商店](https://store.steampowered.com/app/926340/Romans_Christmas/)
-履云录 | 战棋 | 简体中文 | TBA  | TBC | [阅读详情](#履云录) | TBA
-佚失的终章 | 视觉小说 | 简体中文 | TBA  | TBC | N/A | TBA
-煦风新笺 | 视觉小说 | 简体中文 | TBA  | TBC | N/A | N/A
-心之符 | 角色扮演 | 简体中文 | TBA  | 包含 | [阅读详情](#心之符) | [官网](http://notesofhearts.com/index_cn.html#anchor5)
-厷雏 | 视觉小说 | 简体中文 | TBA  | TBC | N/A | TBA
-围炉之礁湖 重制版  | 视觉小说 | 简体中文 | 2019年12月  | R18补丁 | N/A | Steam 商店
-阁楼之礁湖 重制版  | 视觉小说 | 简体中文 | 2019年9月  | R18补丁 | N/A | Steam 商店
-Kemo Coliseum  | 角色扮演 | 英文/日文 | TBA  | 包含 | [阅读详情](#Kemo-Coliseum) | Steam 商店
+形骸骑士 | 平台动作 | 中文 | TBA  | 无 | [阅读详情](#形骸骑士) | TBA
+罗曼圣诞探案集 | 文字冒险 | 中文 | TBA  | 无 | [阅读详情](#罗曼圣诞探案集) | [Steam 商店](https://store.steampowered.com/app/926340/Romans_Christmas/)
+履云录 | 战棋 | 中文 | TBA  | TBC | [阅读详情](#履云录) | TBA
+佚失的终章 | 视觉小说 | 中文 | TBA  | TBC | N/A | TBA
+煦风新笺 | 视觉小说 | 中文 | TBA  | TBC | N/A | N/A
+心之符 | 角色扮演 | 中文 | TBA  | 包含 | [阅读详情](#心之符) | [官网](http://notesofhearts.com/index_cn.html#anchor5)
+厷雏 | 视觉小说 | 中文 | TBA  | TBC | N/A | TBA
+围炉之礁湖 重制版  | 视觉小说 | 中文 | 2019年12月  | R18补丁 | N/A | Steam 商店
+阁楼之礁湖 重制版  | 视觉小说 | 中文 | 2019年9月  | R18补丁 | N/A | Steam 商店
+Kemo Coliseum  | 角色扮演 | 英/日 | TBA  | 包含 | [阅读详情](#Kemo-Coliseum) | Steam 商店
 Backbone | 文字冒险 | 英文 | 2020年  | 无 | [阅读详情](#Backbone) | [Steam 商店](https://store.steampowered.com/app/865610/Backbone/)
 TUNIC | 动作 | 英文 | TBA  | 无 | [阅读详情](#TUNIC) | [Steam 商店](https://store.steampowered.com/app/553420/TUNIC/)
 雾岛渐次事件簿 | 视觉小说 | 日文 | TBA  | TBC | [阅读详情](#你看见过我的野兽吗雾岛渐次事件簿) | TBA
 生化变种 | 角色扮演 | 英文 | 2019年  | 无 | [阅读详情](#生化变种) | [Steam 商店](https://store.steampowered.com/app/597820/BIOMUTANT/)
-厄运七人组 | 恐怖 | 简体中文 | TBA  | 无 | [阅读详情](#厄运七人组) | [Steam 商店](https://store.steampowered.com/app/579120/Unlucky_Seven/)
+厄运七人组 | 恐怖 | 中文 | TBA  | 无 | [阅读详情](#厄运七人组) | [Steam 商店](https://store.steampowered.com/app/579120/Unlucky_Seven/)
 After Class | 视觉小说 | 英文 | TBA  | 包含 | [阅读详情](#After-Class) | [itch.io](https://andehp.itch.io/afterclass)
 课外活动 | 视觉小说 | 英文 | 2019年4月1日  | 包含 | [阅读详情](#课外活动) | [itch.io](https://dynewulf.itch.io/extracurricular-activities)
 Lovers of Aether | 视觉小说 | 英文 | 2019年4月1日  | 无 | [阅读详情](#Lovers-of-Aether) | [Steam 商店](https://store.steampowered.com/app/1043180/Lovers_of_Aether/)
-揭谛 | 文字冒险 | 简体中文 | 2019年2月10日  | 无 | [阅读详情](#揭谛) | [百度贴吧](https://tieba.baidu.com/p/6031889182)
+揭谛 | 文字冒险 | 中文 | 2019年2月10日  | 无 | [阅读详情](#揭谛) | [百度贴吧](https://tieba.baidu.com/p/6031889182)
 暗黑之门 | 视觉小说 | [汉化补丁](https://weibo.com/5587914091/GDjHQuWhT) | 2019年2月10日  | 包含 | [阅读详情](#暗黑之门) | [Patreon](https://www.patreon.com/blackgategame)
-超级动物大逃杀 | 射击生存 | 简体中文 | 2018年12月12日  | 无 | [阅读详情](#超级动物大逃杀) | [Steam 商店](https://store.steampowered.com/app/843380/Super_Animal_Royale/)
+超级动物大逃杀 | 射击生存 | 中文 | 2018年12月12日  | 无 | [阅读详情](#超级动物大逃杀) | [Steam 商店](https://store.steampowered.com/app/843380/Super_Animal_Royale/)
 绿叶之冠 | 视觉小说 | 英文 | 2018年11月27日  | 无 | [阅读详情](#绿叶之冠) | [Steam 商店](https://store.steampowered.com/app/604330/The_Crown_of_Leaves/)
-喵喵战争 | 卡牌 | 简体中文 | 2018年8月8日  | 无 | [阅读详情](#喵喵战争) | [Steam 商店](https://store.steampowered.com/app/762110/Meow_Wars_Card_Battle/)
-秘密之礁湖 重制版  | 视觉小说 | 简体中文 | 2018年7月6日  | [R18补丁](http://www.kaiju09.com/lagoonloungeEnglish/) | [阅读详情](#秘密之礁湖-重制版) | [Steam 商店](https://store.steampowered.com/app/857690/Lagoon_Lounge__The_Poisonous_Fountain/)
+喵喵战争 | 卡牌 | 中文 | 2018年8月8日  | 无 | [阅读详情](#喵喵战争) | [Steam 商店](https://store.steampowered.com/app/762110/Meow_Wars_Card_Battle/)
+秘密之礁湖 重制版  | 视觉小说 | 中文 | 2018年7月6日  | [R18补丁](http://www.kaiju09.com/lagoonloungeEnglish/) | [阅读详情](#秘密之礁湖-重制版) | [Steam 商店](https://store.steampowered.com/app/857690/Lagoon_Lounge__The_Poisonous_Fountain/)
 Just, Bearly | 模拟 | 英文 | 2018年5月31日  | 无 | [阅读详情](#Just-Bearly) | [Steam 商店](https://store.steampowered.com/app/792030/Just_Bearly/)
 Amorous | 视觉小说 | 英文 | 2018年4月14日  | 无 | [阅读详情](#Amorous) | [Steam 商店](https://store.steampowered.com/app/778700/Amorous/)
-Changed | 解谜 | 简体中文 | 2018年4月5日  | 无 | [阅读详情](#Changed) | [Steam 商店](https://store.steampowered.com/app/814540/Changed/)
+Changed | 解谜 | 中文 | 2018年4月5日  | 无 | [阅读详情](#Changed) | [Steam 商店](https://store.steampowered.com/app/814540/Changed/)
 The Pirate's Fate | 视觉小说 | 英文 | 2018年3月27日  | 无 | [阅读详情](#The-Pirates-Fate) | [Steam 商店](https://store.steampowered.com/app/553480/The_Pirates_Fate/)
 Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [阅读详情](#Winds-of-Change) | [Steam 商店](https://store.steampowered.com/app/594130/Winds_of_Change/)
-家有大猫  | 视觉小说 | 简体中文 | 2017年11月13日  | [R18补丁](https://store.nekojishi.tw/zh/product/nekojishi_limited/) | [阅读详情](#家有大猫) | [Steam 商店](https://store.steampowered.com/app/570840/_Nekojishi/)
+家有大猫  | 视觉小说 | 中文 | 2017年11月13日  | [R18补丁](https://store.nekojishi.tw/zh/product/nekojishi_limited/) | [阅读详情](#家有大猫) | [Steam 商店](https://store.steampowered.com/app/570840/_Nekojishi/)
 雄兽岛的秘密 | 视觉小说 | 日文 | 2017年10月25日  | 包含 | [阅读详情](#雄兽岛的秘密) | [DLSITE](https://www.dlsite.com/bl/work/=/product_id/RJ210651.html)
-尾牙 | 策略 | 简体中文 | 2017年9月13日  | 无 | [阅读详情](#尾牙) | [Steam 商店](https://store.steampowered.com/app/286000/Tooth_and_Tail/)
+尾牙 | 策略 | 中文 | 2017年9月13日  | 无 | [阅读详情](#尾牙) | [Steam 商店](https://store.steampowered.com/app/286000/Tooth_and_Tail/)
 亮晶晶：闪闪王国 | 动作角色扮演 | 英文 | 2017年4月18日  | 无 | [阅读详情](#亮晶晶闪闪王国) | [Steam 商店](https://store.steampowered.com/app/366640/Shiness_The_Lightning_Kingdom/)
 林中之夜 | 文字冒险 | 英文 | 2017年2月21日  | 无 | [阅读详情](#林中之夜) | [Steam 商店](https://store.steampowered.com/app/481510/Night_in_the_Woods/)
 鳞翼天使 | 视觉小说 | [汉化补丁](https://steamcommunity.com/sharedfiles/filedetails/?id=1631230813) | 2017年2月1日  | 无 | [阅读详情](#鳞翼天使) | [Steam 商店](https://store.steampowered.com/app/571880/Angels_with_Scaly_Wings/)
 大调小调完整版 | 视觉小说 | 英文 | 2016年10月11日  | 无 | [阅读详情](#大调小调完整版) | [Steam 商店](https://store.steampowered.com/app/475490/MajorMinor__Complete_Edition/)
 Orekemo | 视觉小说 | [汉化补丁](https://share.weiyun.com/5M93onn) 7783ya | 2016年9月25日  | 包含 | [阅读详情](#你看见过我的野兽吗) | [DIGIKET](http://www.digiket.com/work/show/_data/ID=ITM0144580/)
 传说：命运之路 | 动作角色扮演 | [汉化补丁](https://steamcn.com/t429856-1-1) | 2016年4月12日  | 无 | [阅读详情](#传说命运之路) | [Steam 商店](https://store.steampowered.com/app/439190/Stories_The_Path_of_Destinies/)
-阿门罗 | 卡牌策略 | 简体中文 | 2015年9月2日  | 无 | [阅读详情](#阿门罗) | [Steam 商店](https://store.steampowered.com/app/290340/Armello/)
-蛮荒兽族 | 文字冒险 | 简体中文 | 2015年8月16日  | 无 | [阅读详情](#蛮荒兽族) | [橙光](https://www.66rpg.com/game/356881)
+阿门罗 | 卡牌策略 | 中文 | 2015年9月2日  | 无 | [阅读详情](#阿门罗) | [Steam 商店](https://store.steampowered.com/app/290340/Armello/)
+蛮荒兽族 | 文字冒险 | 中文 | 2015年8月16日  | 无 | [阅读详情](#蛮荒兽族) | [橙光](https://www.66rpg.com/game/356881)
 笨蛋部 | 视觉小说 | [汉化补丁](https://tieba.baidu.com/p/4944731151) | 2015年8月16日  | 包含 | [阅读详情](#笨蛋部) | [BOOTH](https://booth.pm/ja/items/526423)
 凯之传奇 | 角色扮演 | 英文 | 2015年7月28日  | 无 | [阅读详情](#凯之传奇) | [Steam 商店](https://store.steampowered.com/app/313810/Legend_of_Kay_Anniversary/)
-FaceRig | 视频软件 | 简体中文 | 2015年7月7日  | 无 | [阅读详情](#FaceRig) | [Steam 商店](https://store.steampowered.com/app/274920/FaceRig/)
-另一个书签 | 视觉小说 | 简体中文 | 2014年10月12日  | 无 | [阅读详情](#Another-Bookmark) | [百度贴吧](https://tieba.baidu.com/p/3345903293)
+FaceRig | 视频软件 | 中文 | 2015年7月7日  | 无 | [阅读详情](#FaceRig) | [Steam 商店](https://store.steampowered.com/app/274920/FaceRig/)
+另一个书签 | 视觉小说 | 中文 | 2014年10月12日  | 无 | [阅读详情](#Another-Bookmark) | [百度贴吧](https://tieba.baidu.com/p/3345903293)
 愛する君へ | 视觉小说 | [汉化补丁](https://tieba.baidu.com/p/4807261773) | 2014年5月11日  | 包含 | [阅读详情](#愛する君へ) | [Pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=43445593)
 兽人战士的私通 | 模拟 | 日文 | 2013年5月25日  | 包含 | [阅读详情](#ケモノ戦士の夜這い) | [DIGIKET](https://www.digiket.com/work/show/_data/ID=ITM0082832/)
-Hello, 吳鍊 | 模拟 | 简体中文 | 2010年12月29日  | 无 | [阅读详情](#Hello-吳鍊) | [主页](https://zoharwolf.weebly.com/hello-2155537706.html)（失效）
+Hello, 吳鍊 | 模拟 | 中文 | 2010年12月29日  | 无 | [阅读详情](#Hello-吳鍊) | [主页](https://zoharwolf.weebly.com/hello-2155537706.html)（失效）
 咱的夏天。 | 视觉小说 | [汉化版](https://tieba.baidu.com/p/3452271872) | 2010年8月15日  | 包含 | [阅读详情](#咱的夏天) | 已解散
-Escape 逃 | 视觉小说 | 简体中文 | 2010年2月22日  | 包含 | [阅读详情](#Escape-逃) | [主页](https://zoharwolf.weebly.com/escape-36867.html)（失效）
-Kemono Code | 视觉小说 | 简体中文 | 2009年8月13日  | 包含 | [阅读详情](#Kemono-Code) | [主页](https://zoharwolf.weebly.com/kemono-code-37324.html)（失效）
+Escape 逃 | 视觉小说 | 中文 | 2010年2月22日  | 包含 | [阅读详情](#Escape-逃) | [主页](https://zoharwolf.weebly.com/escape-36867.html)（失效）
+Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [阅读详情](#Kemono-Code) | [主页](https://zoharwolf.weebly.com/kemono-code-37324.html)（失效）
 
 ## 形骸骑士
 ![img](img/007cpe1lly1g1bo9v4klmj31hc0u0u0y.jpg)
