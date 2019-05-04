@@ -18,6 +18,8 @@ TUNIC | 动作 | 英文 | TBA  | 无 | [🐾](#TUNIC) | [Steam 商店](https://s
 厄运七人组 | 恐怖 | 中文 | TBA  | 无 | [🐾](#厄运七人组) | [Steam 商店](https://store.steampowered.com/app/579120/Unlucky_Seven/)
 After Class | 视觉小说 | 英文 | TBA  | 包含 | [🐾](#After-Class) | [itch.io](https://andehp.itch.io/afterclass)
 咱的夏天 返乡版  | 视觉小说 | 英文 | TBA  | 包含 | [🐾](#咱的夏天-返乡版) | [itch.io](https://stormsingerstudios.itch.io/homecoming-morenatsu-revisited)
+Echo | 视觉小说 | 英文 | TBA  | 包含 | [🐾](#Echo) | [Patreon](https://www.patreon.com/EchoGame)
+Adastra | 视觉小说 | 英文 | TBA  | 包含 | [🐾](#Adastra) | [Patreon](https://www.patreon.com/EchoGame)
 课外活动 | 视觉小说 | 英文 | 2019年4月1日  | 包含 | [🐾](#课外活动) | [itch.io](https://dynewulf.itch.io/extracurricular-activities)
 Lovers of Aether | 视觉小说 | 英文 | 2019年4月1日  | 无 | [🐾](#Lovers-of-Aether) | [Steam 商店](https://store.steampowered.com/app/1043180/Lovers_of_Aether/)
 揭谛 | 文字冒险 | 中文 | 2019年2月10日  | 无 | [🐾](#揭谛) | [百度贴吧](https://tieba.baidu.com/p/6031889182)
@@ -47,6 +49,7 @@ Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [🐾](#Wind
 Orekemo | 视觉小说 | [汉化](https://pan.baidu.com/s/1-o6N8xe4-AVoj7bKDM_l0g) 1xzs | 2016年9月25日  | 包含 | [🐾](#你看见过我的野兽吗) | [DIGIKET](http://www.digiket.com/work/show/_data/ID=ITM0144580/)
 Great Troubles | 视觉小说 | 英文 | 2016年6月28日  | 包含 | [🐾](#Great-Troubles) | [Fur Affinity](https://www.furaffinity.net/view/20409644/)
 传说：命运之路 | 动作角色扮演 | [汉化](https://steamcn.com/t429856-1-1) | 2016年4月12日  | 无 | [🐾](#传说命运之路) | [Steam 商店](https://store.steampowered.com/app/439190/Stories_The_Path_of_Destinies/)
+Mugen Delga Action | 动作 | 英文 | 2015年11月28日  | 包含 | [🐾](#Mugen-Delga-Action) | [YouTube](https://www.youtube.com/watch?v=ZjDZ4h6eLvo)（失效）
 阿门罗 | 卡牌策略 | 中文 | 2015年9月2日  | 无 | [🐾](#阿门罗) | [Steam 商店](https://store.steampowered.com/app/290340/Armello/)
 蛮荒兽族 | 文字冒险 | 中文 | 2015年8月16日  | 无 | [🐾](#蛮荒兽族) | [橙光](https://www.66rpg.com/game/356881)
 笨蛋部 | 视觉小说 | [汉化](https://tieba.baidu.com/p/4944731151) | 2015年8月16日  | 包含 | [🐾](#笨蛋部) | [BOOTH](https://booth.pm/ja/items/526423)
@@ -57,8 +60,11 @@ Willy Bear Beach | 视觉小说 | 英文 | 2015年3月6日  | 包含 | [🐾](#W
 Another Bookmark | 视觉小说 | 中文 | 2014年10月12日  | 无 | [🐾](#Another-Bookmark) | [百度贴吧](https://tieba.baidu.com/p/3345903293)
 愛する君へ | 视觉小说 | [汉化](https://tieba.baidu.com/p/4807261773) | 2014年5月11日  | 包含 | [🐾](#愛する君へ) | [Pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=43445593)
 ケモノ戦士の夜這い | 模拟 | 日文 | 2013年5月25日  | 包含 | [🐾](#ケモノ戦士の夜這い) | [DIGIKET](https://www.digiket.com/work/show/_data/ID=ITM0082832/)
+ゾウの引越屋さん | 视觉小说 | 日文 | 2012年5月3日  | 包含 | [🐾](#ゾウの引越屋さん) | [BOOTH](https://booth.pm/ja/items/89534)
+Mugen Delga | 动作 | 英文 | 2010年8月16日  | 包含 | [🐾](#Mugen-Delga) | [主页](http://bomb-lion.blogspot.com/2011/08/mugen-delgav10.html)（失效）
 Hello, 吳鍊 | 模拟 | 中文 | 2010年12月29日  | 无 | [🐾](#Hello-吳鍊) | [主页](https://zoharwolf.weebly.com/hello-2155537706.html)（失效）
 咱的夏天。 | 视觉小说 | [汉化版](https://tieba.baidu.com/p/3452271872) | 2010年8月15日  | 包含 | [🐾](#咱的夏天) | 已解散
+Blank Blood Delga | 动作 | 中文 | 2010年4月21日  | 包含 | [🐾](#Blank-Blood-Delga) | [主页](http://dragon-artwork-collection.blogspot.com/2010/04/blank-blood-delga-version-release.html)（失效）
 Escape 逃 | 视觉小说 | 中文 | 2010年2月22日  | 包含 | [🐾](#Escape-逃) | [主页](https://zoharwolf.weebly.com/escape-36867.html)（失效）
 Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemono-Code) | [主页](https://zoharwolf.weebly.com/kemono-code-37324.html)（失效）
 
@@ -228,6 +234,22 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > In Homecoming, you take on the role of a young Japanese snow fox named Hiroyuki Nishimura. After moving away from your hometown Minasato to Osaka five years ago, you receive an unexpected letter from an old friend inviting you back for one last summer vacation before starting your senior year of high school. What complicates things is how you've neglected to contact any of your friends over the years. Although nervous, you accept the invitation.
 > 
 > What awaits you back in Minasato? Will you be welcomed with open arms, or has it been so long that everyone has forgotten about you? Will this be yet another wasted summer, or will you finally have the chance to experience what makes life worth living?
+
+## Echo
+![img](img/yKATYRR.png)
+> Echo is a small, isolated, desert town located somewhere in the Southwest. It's seen better days; its businesses closing and population dwindling. 
+> 
+> During spring break, Chase, a young otter who grew up in Echo, is back for a school project aimed at documenting an event in the 1870's that may have lead to the town's current state. He's joined by five friends, who grew up with him in Echo, taking the chance to have a little reunion. Unfortunately, Chase begins to realize that their memories of Echo may have been a bit rose-tinted. Being back in the town digs up old and painful memories; secrets that lead to rifts in the group that have been boiling under the surface for years. On top of that, Chase begins to realize that Echo itself may have its own secrets. Odd and unexplained memories that he always blamed on an overactive childhood imagination may not have been imagined at all. 
+> 
+> Finally, an event is triggered that turns these fears into something much more tangible and dangerous. Chase is now forced into a situation in which he must help his friends either face, or escape their demons. Either way, Echo is not keen on letting them go... 
+
+## Adastra
+![img](img/mue7WCx.png)
+> You're having the time of your life in Rome on a study abroad program when you're suddenly abducted by an alien. What does he want from you? Well, he doesn't seem to want to tell and, before you know it, you're millions of miles away from Earth on your way to a place you know nothing about.
+> 
+> Adastra is a romance visual novel with a whole bunch of sci-fi and political intrigue mixed in. You'll experience the perils of navigating an empire in turmoil while deciding who you should and who you definitely shouldn't trust. 
+> 
+> In this climate of turncoats and backstabbers, you start to wonder if the alien that abducted you is the one person you can trust the most. 
 
 ## 课外活动
 ![img](img/WE_8qC.png)
@@ -477,6 +499,14 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 ![img](img/ss_7b9f1a9b79ff9aaa8d29a1dd480480c4b439df57.jpg)
 > Stories: The Path of Destinies is an Action RPG, an enchanted storybook filled with madcap fantasy tales, each told by a zippy narrator attuned to the player’s choices and actions.
 
+## Mugen Delga Action
+![img](img/OaoylJTX1zYsfDCI7nin.jpg)
+> This is our mini game "Mugen Delga Action" !! It Release Today. 
+> 
+> It is also showed that our team isn't gone, we're just busy with life. 
+> 
+> SO please be patient for Original MUGEN Delga full version.
+
 ## 阿门罗
 ![img](img/ss_aa5d6a4d236aee51fa0a93e8c605dba49f3e7c22.jpg)
 > 《阿门罗》将富有深度的卡牌战术游戏，策略性丰富的桌面游戏，以及角色扮演游戏三种风格融为一体，让玩家体验华丽盛大的冒险之旅。 
@@ -600,9 +630,36 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > 
 > 「決して入るな」と言われていたジグマールが眠るテントに忍びこんでしまう。 
 
+## ゾウの引越屋さん
+![img](img/7c34726d-1be9-4f2e-aa7f-9d1ba518501c_base_resized.jpg)
+> 大きなゾウさんの経営する小さな引越屋さんで一夏のバイト体験をしよう！
+> 
+> 心も体もでっかくて、料理の得意なゾウ獣人、重田社長
+> 
+> 仕事の先輩の（いつも汗臭い）アライグマ獣人の御手洗さん
+> 
+> バイトの同僚で、まだ精液の香りもしないシロクマ獣人の持丸くん
+> 
+> 選択肢を選んでいくことで３人の登場キャラと
+> 
+> むふふなイベントが起きたりしますｗ
+> 
+> ニオイフェチの主人公が体験する数日間を
+> 
+> ほのぼのエッチなノベルゲームでお楽しみください！
+
+## Mugen Delga
+![img](img/79656_orig.jpg)
+> 操作方式:類似外頭的大型機台格鬥遊戲 使用MUGEN的系統製作 可以到設定區更改設定
+> 
+> 遊戲中可以選擇九位可以虐待 性侵 吞食 DELGA的角色 
+> 
+> 也可以自己選擇當DELGA 讓對方(電腦)對DELGA進行各種攻擊
+> 
+> 遊戲中偶而會出現BUG 如果出現該狀況 最簡單的解決方式就是ESC 重新開遊戲 或是重開對戰畫面
+
 ## Hello, 吳鍊
 ![img](img/79656_orig.jpg)
-
 > 吳鍊是台湾漫画《机甲盘古》中的角色，这个小游戏就是给他换衣服的XE小游戏。游戏中一共有15套衣服可供选择和搭配。另外也可以改变表情哦XD
 
 ## 咱的夏天。
@@ -610,6 +667,13 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > 在高考前的最后一个暑假，在城市的主角收到小时候住的村子（水乡村）里朋友来信。因为祖父母还住在那里，主角就决定回老家探望。
 > 
 > 主角搭公车回到水乡村，遇见在巴士站等待他的虎彦，稍晚参加朋友们为他举办的欢迎会，介绍九个主要角色之后进入分歧点，在此选择故事进行的八条路线（其中一条路线包含两位主要角色）。
+
+## Blank Blood Delga
+![img](img/Blank Blood Delga version.png)
+> 1. 主要角色是 Delga
+> 2. 射擊的角色仍然是小妹
+> 3. Delga 的所有死亡動作完成
+> 4. Delga 的所有特殊武器動作完成
 
 ## Escape 逃
 ![img](img/5738193_orig.jpg)
