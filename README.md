@@ -36,7 +36,7 @@ Changed | 解谜 | 中文 | 2018年4月5日  | 无 | [🐾](#Changed) | [Steam �
 The Pirate's Fate | 视觉小说 | 英文 | 2018年3月27日  | 无 | [🐾](#The-Pirates-Fate) | [Steam 商店](https://store.steampowered.com/app/553480/The_Pirates_Fate/)
 Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [🐾](#Winds-of-Change) | [Steam 商店](https://store.steampowered.com/app/594130/Winds_of_Change/)
 兽祭~吸血鬼之夜 | 角色扮演 | 中文 | 2018年2月11日  | 无 | [🐾](#兽祭吸血鬼之夜) | [百度贴吧](https://tieba.baidu.com/p/5548778877)
-家有大猫  | 视觉小说 | 中文 | 2017年11月13日  | [R18补丁](https://store.nekojishi.tw/zh/product/nekojishi_limited/) | [🐾](#家有大猫) | [Steam 商店](https://store.steampowered.com/app/570840/_Nekojishi/)
+家有大猫  | 视觉小说 | 中文 | 2017年11月13日  | [补丁](https://store.nekojishi.tw/zh/product/nekojishi_limited/) | [🐾](#家有大猫) | [Steam 商店](https://store.steampowered.com/app/570840/_Nekojishi/)
 雄兽岛的秘密 | 视觉小说 | 日文 | 2017年10月25日  | 包含 | [🐾](#雄兽岛的秘密) | [DLSITE](https://www.dlsite.com/bl/work/=/product_id/RJ210651.html)
 尾牙 | 策略 | 中文 | 2017年9月13日  | 无 | [🐾](#尾牙) | [Steam 商店](https://store.steampowered.com/app/286000/Tooth_and_Tail/)
 亮晶晶：闪闪王国 | 动作角色扮演 | 英文 | 2017年4月18日  | 无 | [🐾](#亮晶晶闪闪王国) | [Steam 商店](https://store.steampowered.com/app/366640/Shiness_The_Lightning_Kingdom/)
