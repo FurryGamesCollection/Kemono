@@ -16,7 +16,7 @@ Backbone | 文字冒险 | 英文 | 2020年  | 无 | [🐾](#Backbone) | [Steam �
 TUNIC | 动作 | 英文 | TBA  | 无 | [🐾](#TUNIC) | [Steam 商店](https://store.steampowered.com/app/553420/TUNIC/)
 生化变种 | 角色扮演 | 英文 | 2019年  | 无 | [🐾](#生化变种) | [Steam 商店](https://store.steampowered.com/app/597820/BIOMUTANT/)
 厄运七人组 | 恐怖 | 中文 | TBA  | 无 | [🐾](#厄运七人组) | [Steam 商店](https://store.steampowered.com/app/579120/Unlucky_Seven/)
-Anubis And The Buried Bone | 类银河战士恶魔城 | 英文 | TBA  | 无 | [🐾](#Anubis-And-The-Buried-Bone) | [itch.io](https://harmarist.itch.io/anubis)
+阿努比斯与湮没之骨 | 类银河战士恶魔城 | 英文 | TBA  | 无 | [🐾](#Anubis-And-The-Buried-Bone) | [itch.io](https://harmarist.itch.io/anubis)
 After Class | 视觉小说 | 英文 | TBA  | 包含 | [🐾](#After-Class) | [itch.io](https://andehp.itch.io/afterclass)
 咱的夏天 返乡版  | 视觉小说 | 英文 | TBA  | 包含 | [🐾](#咱的夏天-返乡版) | [itch.io](https://stormsingerstudios.itch.io/homecoming-morenatsu-revisited)
 Echo | 视觉小说 | 英文 | TBA  | 包含 | [🐾](#Echo) | [Patreon](https://www.patreon.com/EchoGame)
