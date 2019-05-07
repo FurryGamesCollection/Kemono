@@ -11,18 +11,19 @@
 围炉之礁湖 重制版  | 视觉小说 | 中文 | 2019年12月  | 补丁 | N/A | Steam 商店
 阁楼之礁湖 重制版  | 视觉小说 | 中文 | 2019年9月  | 补丁 | N/A | Steam 商店
 Kemo Coliseum  | 角色扮演 | 英/日 | TBA  | 包含 | [🐾](#Kemo-Coliseum) | [Patreon](https://www.patreon.com/kemocoliseum)
+Reprise | 音游 | 日文 | TBA  | 无 | [🐾](#Reprise) | [FANBOX](https://www.pixiv.net/fanbox/creator/16301547)
 Backbone | 文字冒险 | 英文 | 2020年  | 无 | [🐾](#Backbone) | [Steam 商店](https://store.steampowered.com/app/865610/Backbone/)
 TUNIC | 动作 | 英文 | TBA  | 无 | [🐾](#TUNIC) | [Steam 商店](https://store.steampowered.com/app/553420/TUNIC/)
-雾岛渐次事件簿 | 视觉小说 | 日文 | TBA  | TBC | [🐾](#你看见过我的野兽吗雾岛渐次事件簿) | TBA
 生化变种 | 角色扮演 | 英文 | 2019年  | 无 | [🐾](#生化变种) | [Steam 商店](https://store.steampowered.com/app/597820/BIOMUTANT/)
 厄运七人组 | 恐怖 | 中文 | TBA  | 无 | [🐾](#厄运七人组) | [Steam 商店](https://store.steampowered.com/app/579120/Unlucky_Seven/)
+Anubis And The Buried Bone | 类银河战士恶魔城 | 英文 | TBA  | 无 | [🐾](#Anubis-And-The-Buried-Bone) | [itch.io](https://harmarist.itch.io/anubis)
 After Class | 视觉小说 | 英文 | TBA  | 包含 | [🐾](#After-Class) | [itch.io](https://andehp.itch.io/afterclass)
 咱的夏天 返乡版  | 视觉小说 | 英文 | TBA  | 包含 | [🐾](#咱的夏天-返乡版) | [itch.io](https://stormsingerstudios.itch.io/homecoming-morenatsu-revisited)
 Echo | 视觉小说 | 英文 | TBA  | 包含 | [🐾](#Echo) | [Patreon](https://www.patreon.com/EchoGame)
 Adastra | 视觉小说 | 英文 | TBA  | 包含 | [🐾](#Adastra) | [Patreon](https://www.patreon.com/EchoGame)
 课外活动 | 视觉小说 | 英文 | 2019年4月1日  | 包含 | [🐾](#课外活动) | [itch.io](https://dynewulf.itch.io/extracurricular-activities)
 Lovers of Aether | 视觉小说 | 英文 | 2019年4月1日  | 无 | [🐾](#Lovers-of-Aether) | [Steam 商店](https://store.steampowered.com/app/1043180/Lovers_of_Aether/)
-揭谛 | 文字冒险 | 中文 | 2019年2月10日  | 无 | [🐾](#揭谛) | [百度贴吧](https://tieba.baidu.com/p/6031889182)
+揭谛 | 文字冒险 | 中文 | 2019年2月10日  | 无 | [🐾](#揭谛) | [百度贴吧](https://tieba.baidu.com/p/6055204414)
 暗黑之门 | 视觉小说 | [汉化](https://weibo.com/5587914091/GDjHQuWhT) | 2019年2月10日  | 包含 | [🐾](#暗黑之门) | [Patreon](https://www.patreon.com/blackgategame)
 Notes from the Cape | 视觉小说 | 英文 | 2019年1月16日  | 包含 | [🐾](#Notes-from-the-Cape) | [itch.io](https://artdecade.itch.io/notesseason1)
 超级动物大逃杀 | 射击生存 | 中文 | 2018年12月12日  | 无 | [🐾](#超级动物大逃杀) | [Steam 商店](https://store.steampowered.com/app/843380/Super_Animal_Royale/)
@@ -33,7 +34,7 @@ Notes from the Cape | 视觉小说 | 英文 | 2019年1月16日  | 包含 | [🐾
 Just, Bearly | 模拟 | 英文 | 2018年5月31日  | 无 | [🐾](#Just-Bearly) | [Steam 商店](https://store.steampowered.com/app/792030/Just_Bearly/)
 Willy Bear Beach 2 | 视觉小说 | 英文 | 2018年5月17日  | 包含 | [🐾](#Willy-Bear-Beach-2) | [itch.io](https://artdecade.itch.io/willy-bear-beach-2)
 Omensight | 动作 | 中文 | 2018年5月16日  | 无 | [🐾](#Omensight) | [Steam 商店](https://store.steampowered.com/app/455820/Omensight_Definitive_Edition/)
-Amorous | 视觉小说 | 英文 | 2018年4月14日  | 无 | [🐾](#Amorous) | [Steam 商店](https://store.steampowered.com/app/778700/Amorous/)
+Amorous | 视觉小说 | 英文 | 2018年4月14日  | 包含 | [🐾](#Amorous) | [Steam 商店](https://store.steampowered.com/app/778700/Amorous/)
 Changed | 解谜 | 中文 | 2018年4月5日  | 无 | [🐾](#Changed) | [Steam 商店](https://store.steampowered.com/app/814540/Changed/)
 The Pirate's Fate | 视觉小说 | 英文 | 2018年3月27日  | 无 | [🐾](#The-Pirates-Fate) | [Steam 商店](https://store.steampowered.com/app/553480/The_Pirates_Fate/)
 Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [🐾](#Winds-of-Change) | [Steam 商店](https://store.steampowered.com/app/594130/Winds_of_Change/)
@@ -60,6 +61,7 @@ Willy Bear Beach | 视觉小说 | 英文 | 2015年3月6日  | 包含 | [🐾](#W
 Another Bookmark | 视觉小说 | 中文 | 2014年10月12日  | 无 | [🐾](#Another-Bookmark) | [百度贴吧](https://tieba.baidu.com/p/3345903293)
 愛する君へ | 视觉小说 | [汉化](https://tieba.baidu.com/p/4807261773) | 2014年5月11日  | 包含 | [🐾](#愛する君へ) | [Pixiv](https://www.pixiv.net/member_illust.php?mode=medium&illust_id=43445593)
 ケモノ戦士の夜這い | 模拟 | 日文 | 2013年5月25日  | 包含 | [🐾](#ケモノ戦士の夜這い) | [DIGIKET](https://www.digiket.com/work/show/_data/ID=ITM0082832/)
+Dust: An Elysian Tail | 类银河战士恶魔城 | [汉化](https://www.codebay.in/2016/06/dustaet-cht-mod.html) | 2013年5月24日  | 无 | [🐾](#Dust-An-Elysian-Tail) | [Steam 商店](https://store.steampowered.com/app/236090/Dust_An_Elysian_Tail/)
 ゾウの引越屋さん | 视觉小说 | 日文 | 2012年5月3日  | 包含 | [🐾](#ゾウの引越屋さん) | [BOOTH](https://booth.pm/ja/items/89534)
 Mugen Delga | 动作 | 英文 | 2010年8月16日  | 包含 | [🐾](#Mugen-Delga) | [主页](http://bomb-lion.blogspot.com/2011/08/mugen-delgav10.html)（失效）
 Hello, 吳鍊 | 模拟 | 中文 | 2010年12月29日  | 无 | [🐾](#Hello-吳鍊) | [主页](https://zoharwolf.weebly.com/hello-2155537706.html)（失效）
@@ -74,6 +76,7 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 :-------------: | :-------------:
 星际火狐 | 射击
 天空机器人 | 动作角色扮演
+ちくたくコンチェルト | 音游
 
 # 详细介绍
 
@@ -189,6 +192,11 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > 
 > ケモコロシアムは Mac OSX と Windows で、フリーで公開される予定です。
 
+## Reprise
+![img](img/006hc8gPgy1g0z2g962mgj30ru0foadd.jpg)
+
+玩法预览：[微博视频](https://weibo.com/tv/v/HkrPqgXJG?fid=1034:4348735220820516)
+
 ## Backbone
 ![img](img/ss_37ca57d513fe0b175d5dcf6aef47e2c4ab95d2e6.jpg)
 > Backbone is a noir-inspired detective adventure. As raccoon private eye Howard Lotor, sniff out clues, collect evidence, interrogate witnesses, and explore beautiful pixel art version of dystopian Vancouver, BC.
@@ -203,10 +211,6 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 ![img](img/ss_1f13b6b65d141e179a7904c0aae00516a315c675.jpg)
 > TUNIC is an action adventure about a tiny fox in a big world. Explore the wilderness, discover spooky ruins, and fight terrible creatures from long ago.
 
-## 你看见过我的野兽吗？雾岛渐次事件簿
-![img](img/DZs7VKqU8AMkHng.jpg)
-> 【俺の獣を見てみるか？ ～しかとその目に刻むッス！～ After Story：霧島漸次の事件簿】の制作が決定しました！！漸次さんに協力してちょっとえっちなトラブルを解決しよう！！事件の真相に迫ると「どんどん」霧島の服が弾け飛んでいくシステムを導入！よろしくッスよー！！！
-
 ## 生化变种
 ![img](img/ss_b16d8dea0422b7d28b900061121f83581916a55d.jpg)
 > BIOMUTANT is an open-world, post-apocalyptic Kung-Fu fable RPG, with a unique martial arts styled combat system allowing you to mix melee, shooting and mutant ability action.
@@ -220,6 +224,12 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > 艾伦的朋友们总是喜欢庆祝特别场合，他们错过了匿名戒酒会，跑去参加了一个豪华汽车旅馆的生日派对。不幸的是，派对的主人因为吃了一口美味的人肝香肠而食欲大增。他们的庆生派对即将成为死亡派对...
 > 
 > 在这个美丽的像素写实风世界中尽情冒险！你所做的每一个选择都将决定你朋友们的命运。探索参与者们的动机与欲望，并破坏他们的阴谋吧！
+
+## Anubis And The Buried Bone
+![img](img/oBAlz4.png)
+> Explore an egyptian themed authentic retro action-adventure platformer.
+> 
+> Powerful souls have escaped Anubis's clutches, so he has to hunt them down, enhancing his abilities along the way by discovering numerous items and unlocking secrets. In the style of classic 8-bit action-adventure games, Anubis and the Buried Bone offers an open world that you decide how to conquer. Be wary, though, because Anubis's difficulty is as authentic as its graphics! Scour the world for its secrets and gain the advantage over your enemies, enhancing Anubis's abilities with dozens of unique treasures.
 
 ## After Class
 ![img](img/MBx34X.png)
@@ -629,6 +639,10 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > 夜番を引き受けたあなたは、密かに抱く恋心を抑えきれず、 
 > 
 > 「決して入るな」と言われていたジグマールが眠るテントに忍びこんでしまう。 
+
+## Dust: An Elysian Tail
+![img](img/ss_4b65ee1fd0755560205a437007ed3002179bbf84.jpg)
+> Immerse yourself in a gorgeous hand-painted world on a search for your true identity. As the mysterious warrior, Dust, your action-packed journey will take you from peaceful glades to snowy mountaintops and beyond. At your disposal is the mythical Blade of Ahrah, capable of turning its wielder into an unstoppable force of nature, and the blade's diminutive guardian, Fidget. Battle dozens of enemies at once with an easy-to-learn, difficult-to-master combat system, take on a variety of quests from friendly villagers, discover ancient secrets and powerful upgrades hidden throughout the massive, open world, and uncover the story of an ancient civilization on the brink of extinction as you fight to uncover your own past.
 
 ## ゾウの引越屋さん
 ![img](img/7c34726d-1be9-4f2e-aa7f-9d1ba518501c_base_resized.jpg)
