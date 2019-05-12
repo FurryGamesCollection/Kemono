@@ -49,6 +49,7 @@ Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [🐾](#Wind
 大调小调完整版 | 视觉小说 | 英文 | 2016年10月11日  | 无 | [🐾](#大调小调完整版) | [Steam 商店](https://store.steampowered.com/app/475490/MajorMinor__Complete_Edition/)
 Orekemo | 视觉小说 | [汉化](https://pan.baidu.com/s/1-o6N8xe4-AVoj7bKDM_l0g) 1xzs | 2016年9月25日  | 包含 | [🐾](#你看见过我的野兽吗) | [DIGIKET](http://www.digiket.com/work/show/_data/ID=ITM0144580/)
 Great Troubles | 视觉小说 | 英文 | 2016年6月28日  | 包含 | [🐾](#Great-Troubles) | [Fur Affinity](https://www.furaffinity.net/view/20409644/)
+Rack 2:Furry Science | 模拟经营 | 英文 | 2016年5月30日  | 包含 | [🐾](#Rack-2-Furry-Science) | [Pateron](https://www.patreon.com/fek)
 传说：命运之路 | 动作角色扮演 | [汉化](https://steamcn.com/t429856-1-1) | 2016年4月12日  | 无 | [🐾](#传说命运之路) | [Steam 商店](https://store.steampowered.com/app/439190/Stories_The_Path_of_Destinies/)
 Mugen Delga Action | 动作 | 英文 | 2015年11月28日  | 包含 | [🐾](#Mugen-Delga-Action) | [YouTube](https://www.youtube.com/watch?v=ZjDZ4h6eLvo)（失效）
 阿门罗 | 卡牌策略 | 中文 | 2015年9月2日  | 无 | [🐾](#阿门罗) | [Steam 商店](https://store.steampowered.com/app/290340/Armello/)
@@ -504,6 +505,12 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 > At the beginning of the second semester a new student from the countryside is transfered to a famous city school. 
 > 
 > School days promised to be interesting and fun, but something went wrong...
+
+## Rack 2:Furry Science
+![img](img/rack2.jpg)
+> Rack 2 is the successor to Rack. 
+>
+>The game will be thematically similar to Rack: you'll perform sexual experiments in a laboratory environment, using the proceeds from your research to unlock more clients, more gadgets, and more ways to experiment.
 
 ## 传说：命运之路
 ![img](img/ss_7b9f1a9b79ff9aaa8d29a1dd480480c4b439df57.jpg)
