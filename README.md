@@ -38,6 +38,7 @@ Amorous | 视觉小说 | 英文 | 2018年4月14日  | 包含 | [🐾](#Amorous) 
 Changed | 解谜 | 中文 | 2018年4月5日  | 无 | [🐾](#Changed) | [Steam 商店](https://store.steampowered.com/app/814540/Changed/)
 The Pirate's Fate | 视觉小说 | 英文 | 2018年3月27日  | 无 | [🐾](#The-Pirates-Fate) | [Steam 商店](https://store.steampowered.com/app/553480/The_Pirates_Fate/)
 Winds of Change | 视觉小说 | 英文 | 2018年3月22日  | 无 | [🐾](#Winds-of-Change) | [Steam 商店](https://store.steampowered.com/app/594130/Winds_of_Change/)
+Ghost of a Tale | 角色扮演 | 中文 | 2018年3月13日  | 无 | [🐾](#Ghost-of-a-Tale) | [Steam 商店](https://store.steampowered.com/app/417290/Ghost_of_a_Tale/)
 兽祭~吸血鬼之夜 | 角色扮演 | 中文 | 2018年2月11日  | 无 | [🐾](#兽祭吸血鬼之夜) | [百度贴吧](https://tieba.baidu.com/p/5548778877)
 家有大猫  | 视觉小说 | 中文 | 2017年11月13日  | [补丁](https://store.nekojishi.tw/zh/product/nekojishi_limited/) | [🐾](#家有大猫) | [Steam 商店](https://store.steampowered.com/app/570840/_Nekojishi/)
 雄兽岛的秘密 | 视觉小说 | 日文 | 2017年10月25日  | 包含 | [🐾](#雄兽岛的秘密) | [DLSITE](https://www.dlsite.com/bl/work/=/product_id/RJ210651.html)
@@ -417,6 +418,14 @@ Kemono Code | 视觉小说 | 中文 | 2009年8月13日  | 包含 | [🐾](#Kemon
 ## Winds of Change
 ![img](img/ss_8b76f333b93391b57297a90d909c299ae235729f.jpg)
 > Lead The Rebellion, build your army, and shape the world with your choices. A story-heavy adventure game with multiple endings, romance options, and non-linear storytelling. A vast dark fantasy world waiting to be explored. Inspired by Dragon Age, and Mass Effect. Fully voice acted by a stellar cast!
+
+## Ghost of a Tale
+![img](img/ss_648ef684b0769a5ed8afd09a4cfce684b8310bbd.jpg)
+> 一个《Ghost of a Tale（精灵鼠传说）》，讲述了一只勇敢的吟游诗人老鼠蒂洛在一次危险的探索中逃离颓然高地，寻找真爱美拉的故事。故事的背景是一个中世纪的世界，在这个世界，老鼠统治着所有其他生物。《Ghost of a Tale（精灵鼠传说）》编织了一个史诗般的而亲密有趣的故事，结合了经典冒险，动作RPG和探索游戏的元素与丰富和高度沉浸式的美学设计。
+> 
+> 你将凭借老鼠的隐身技能、敏捷天赋和伪装本领以及吟游诗人的音乐天才，探索腐朽的森林，从广袤的林地和湖岸到蜘蛛出没的地下墓穴，躲避无数危险，发现最古老的秘密。
+> 
+> 颓然高地对一只小老鼠来说是一个危险的地方，因为蒂洛几乎不是一个战士。当面对两倍于你的致命敌人时，狡猾和敏捷是你唯一的盟友。与颓然高地的居民交谈，与敌人结盟，不遗余力地寻找美拉。
 
 ## 兽祭~吸血鬼之夜
 ![img](img/006WdMftgy1focmw37d3cj30fa0cc7cq.jpg)
